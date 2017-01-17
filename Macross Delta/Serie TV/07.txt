@@ -1,0 +1,28 @@
+﻿23/06/2016
+===================
+Corrección de los cargos militares
+
+30/05/2016
+===================
+Reparación de una línea de dialogo.
+
+29/05/2016
+===================
+Unificación el termino del "Seidznole"
+
+28/05/2016
+===================
+Unificación el termino del "Nuevo Gobierno Unificado"
+
+24/05/2016
+===================
+Cambio de algunas frases para que sean más amenas.
+Cambio de traducción de los temas
+
+22/05/2016
+===================
+Publicación.
+
+Errores conocidos
+===================
+Algunos de los temas necesitan revisión

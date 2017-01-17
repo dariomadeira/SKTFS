@@ -1,0 +1,942 @@
+1
+00:00:02,010 --> 00:00:06,487
+"Para todos aquellos quienes viajan con nosotros,
+les anunciamos nuestra llegada al Brazo Espiral de Sagitario"-
+
+2
+00:00:06,600 --> 00:00:08,980
+"Las condiciones para concluir con la transposición son muy buenas"
+
+3
+00:00:09,384 --> 00:00:16,360
+"El aterrizaje será un poco fuerte, por favor ajusten sus cinturones de seguridad"
+
+4
+00:00:16,370 --> 00:00:18,681
+"Finalizando Transposición , hemos llegado a nuestro destino."
+
+5
+00:00:34,675 --> 00:00:36,455
+¿Desea torta de Manzana, eh?
+
+6
+00:00:36,975 --> 00:00:39,100
+Por favor despierta, Sheryl
+
+7
+00:00:40,500 --> 00:00:41,715
+¿Qué pasa?
+
+8
+00:00:41,764 --> 00:00:43,473
+Ya vamos a aterrizar
+
+9
+00:01:03,000 --> 00:01:11,355
+"Este es el GFX 108 Galaxy Starliner,
+respondan Control Frontier"
+
+10
+00:01:12,100 --> 00:01:17,307
+GFX 108, Este es el Control Frontier. Bienvenidos.
+
+11
+00:01:18,500 --> 00:01:23,706
+"Nuestra nave está próxima a su aterrizaje y está 
+transportándo al "Hada Galáctica", Sheryl que se 
+encuentra a bordo".
+
+12
+00:01:25,450 --> 00:01:26,857
+Un óceano...
+
+13
+00:01:51,690 --> 00:01:56,721
+Hace un tiempo, hubo una guerra contra la raza Zentraedi.
+
+14
+00:01:58,490 --> 00:02:04,155
+La primera guerra intergaláctica trajo muerte
+y la destrucción total del planeta.
+
+15
+00:02:04,400 --> 00:02:13,450
+Sin embargo, algunos pudieron escapar y viajar al espacio 
+en busca de otros planetas con el objetivo de asegurar 
+la supervivencia y progreso de la raza humana.
+
+16
+00:02:17,533 --> 00:02:33,550
+Y desde entonces, en el año 2059, la vigesimo quinta 
+fortaleza espacial Macross Frontier, avanza por el 
+inmenso Universo.
+
+17
+00:02:39,370 --> 00:02:43,056
+¡Oye, Nanase! ¿Quieres ir al centro Cranberry?
+
+18
+00:02:43,174 --> 00:02:45,274
+¡Lo siento, debo trabajar hoy!
+
+19
+00:03:08,500 --> 00:03:10,100
+¿Cómo va todo, Luca?
+
+20
+00:03:10,699 --> 00:03:13,019
+Me parece que está quedando muy buena la rutina.
+
+21
+00:03:13,300 --> 00:03:14,020
+No está nada mal.
+
+22
+00:03:15,200 --> 00:03:16,130
+Si es mala.
+
+23
+00:03:16,600 --> 00:03:18,316
+No me preocuparía mucho por eso.
+
+24
+00:03:18,796 --> 00:03:20,741
+El concierto es sólo un entretenimiento.
+
+25
+00:03:21,080 --> 00:03:22,668
+Y no valdría la pena hacerlo peligroso.
+
+26
+00:03:23,759 --> 00:03:25,377
+Yo puedo hacerlo
+
+27
+00:03:26,177 --> 00:03:30,326
+Ahhh, tan despreciable como siempre, Princesa Alto.
+
+28
+00:03:30,700 --> 00:03:32,351
+¿Cómo me llamaste?
+
+29
+00:03:32,591 --> 00:03:35,470
+Amo tu rostro cuando te enfadas
+
+30
+00:03:35,490 --> 00:03:36,550
+¿Qué dijiste?
+
+31
+00:03:36,600 --> 00:03:38,318
+Aquí vamos de nuevo...
+
+32
+00:03:45,157 --> 00:03:47,428
+¿En serio conseguiste una entrada para ver a Sheryl?
+
+33
+00:03:48,000 --> 00:03:51,747
+Por ti iría hasta la frontera del universo, hermana.
+
+34
+00:03:52,750 --> 00:03:54,238
+Gracias hermanito.
+
+35
+00:03:54,522 --> 00:03:55,429
+¡Te quiero!
+
+36
+00:03:57,400 --> 00:03:58,788
+¡Que bien!
+
+37
+00:03:59,134 --> 00:04:01,247
+¡Estoy en la cima de mundo!
+
+38
+00:04:01,697 --> 00:04:03,216
+¡Que grandioso!
+
+39
+00:04:09,700 --> 00:04:12,766
+En serio voy a ver a Sheryl.
+
+40
+00:04:15,200 --> 00:04:16,182
+¡Nana!
+
+41
+00:04:16,701 --> 00:04:18,442
+No puedes hacer eso Ranka.
+
+42
+00:04:20,555 --> 00:04:24,180
+¡Este es mi plato especial de puerco!, 
+¡Sería bueno que no lo dejaran enfríar!
+
+43
+00:04:24,210 --> 00:04:25,181
+L-L-Lo siento.
+
+44
+00:04:32,500 --> 00:04:35,361
+Tendríamos represalias internacionales si algo le llegara a suceder a ella.
+
+45
+00:04:35,800 --> 00:04:39,187
+Necesitamos que veles por su protección.
+
+46
+00:04:39,700 --> 00:04:41,869
+Entendido, Sr. Presidente.
+
+47
+00:04:42,468 --> 00:04:45,212
+Se encuentran a punto de entrar a la zona de gravedad.
+
+48
+00:04:45,632 --> 00:04:47,466
+Por favor, estén atentos.
+
+49
+00:04:55,600 --> 00:04:57,657
+Te ves muy cansada.
+
+50
+00:04:58,310 --> 00:05:01,144
+Viajar grandes distancias con la Transposición es lo peor.
+
+51
+00:05:01,800 --> 00:05:03,957
+¿Preferirías cancelar la entrevista?
+
+52
+00:05:06,192 --> 00:05:09,416
+Grace, ¿acaso olvidaste quién soy yo?
+
+53
+00:05:09,798 --> 00:05:13,043
+Soy Sheryl, Sheryl Nome.
+
+54
+00:05:22,000 --> 00:05:26,759
+"Continuando su gira de 3 meses, la estrella del pop, el "Hada Galáctica", ha llegado a la ciudad..."
+
+55
+00:05:29,004 --> 00:05:30,500
+¡Que bonita!.
+
+56
+00:05:31,200 --> 00:05:32,790
+¡Está aquí!, ¡Sheryl está aquí!
+
+57
+00:05:33,900 --> 00:05:34,349
+¡Hey!
+
+58
+00:05:36,223 --> 00:05:37,125
+¡Es tan sensual!
+
+59
+00:05:37,200 --> 00:05:38,980
+¡La conoceremos muy pronto!
+
+60
+00:05:38,990 --> 00:05:41,291
+¡No puedo creer que vayamos a estar
+en el mismo lugar junto a ella!
+
+61
+00:05:41,300 --> 00:05:42,292
+¡Aquí... VAAAAA!
+
+62
+00:05:51,800 --> 00:05:52,750
+¡Hey, Alto!
+
+63
+00:05:52,800 --> 00:05:53,754
+¡Sempai!
+
+64
+00:05:54,835 --> 00:05:57,723
+El viento parece estar soplando a 4 metros por segundo.
+
+65
+00:06:01,424 --> 00:06:03,230
+Preparado para despegar.
+
+66
+00:06:03,536 --> 00:06:06,808
+Alerones y motor en buen estado.
+
+67
+00:06:07,888 --> 00:06:08,927
+¡Despegue!
+
+68
+00:06:26,433 --> 00:06:27,875
+Vuela con el viento.
+
+69
+00:06:28,240 --> 00:06:30,763
+Vaya, como si fuera una exhibición.
+
+70
+00:06:51,426 --> 00:06:53,290
+El cielo está tan bajo.
+
+71
+00:07:10,613 --> 00:07:13,802
+Estación Cielo, Estación Cielo.
+
+72
+00:07:27,400 --> 00:07:29,300
+No puedo ver, no puedo ver.
+
+73
+00:07:38,287 --> 00:07:39,717
+Esto apesta.
+
+74
+00:07:42,430 --> 00:07:46,403
+Primero no nos permiten dirigirle la palabra
+y después alteran nuestro programa.
+
+75
+00:07:47,882 --> 00:07:49,225
+¿Qué esperabas?
+
+76
+00:07:49,710 --> 00:07:51,725
+Nuestra cliente solicitó trato especial.
+
+77
+00:07:53,532 --> 00:07:56,990
+Ellos dijeron, "detengan cualquier programa maniobra que pueda ser peligrosa".
+
+78
+00:07:57,315 --> 00:08:01,325
+¿Y entonces, qué pasó con el asenso de Alto?
+
+79
+00:08:01,659 --> 00:08:03,580
+Te estás poniendo muy enojado, Luca.
+
+80
+00:08:03,595 --> 00:08:05,531
+Esto es lo que nos estan pidiendo que hagamos
+
+81
+00:08:06,264 --> 00:08:09,086
+De cualquier forma, como tu líder, es mi decisión.
+
+82
+00:08:09,498 --> 00:08:11,269
+Y no puedes desobedecerme.
+
+83
+00:08:12,000 --> 00:08:14,110
+Estoy realmente perdida.
+
+84
+00:08:23,000 --> 00:08:26,469
+Vas a enojar a nuestra hermosa invitada si estás malhumorado.
+
+85
+00:08:27,165 --> 00:08:28,477
+¡Si tienes algo que decirme hazlo!
+
+86
+00:08:28,520 --> 00:08:33,208
+Así lo haré la próxima vez, Princesa Alto...
+
+87
+00:08:34,232 --> 00:08:35,508
+Mikhail...
+
+88
+00:08:43,500 --> 00:08:45,458
+De verás quería verlo...
+
+89
+00:08:45,586 --> 00:08:47,481
+El asenso de Alto.
+
+90
+00:08:47,850 --> 00:08:48,482
+Está bien.
+
+91
+00:08:49,570 --> 00:08:52,749
+Además, está es la primera vez que el Sol se oculta en 2.000 años.
+
+92
+00:08:53,622 --> 00:08:54,923
+Volar...
+
+93
+00:08:55,000 --> 00:08:56,304
+Eso es para los pájaros.
+
+94
+00:09:00,130 --> 00:09:02,539
+Yo sólo quería pilotear una Valkyria,
+
+95
+00:09:03,200 --> 00:09:05,133
+No estos tontos juguetes.
+
+96
+00:09:05,663 --> 00:09:09,435
+Estas X-Gears son básicamente las mismas del ejército.
+
+97
+00:09:10,200 --> 00:09:13,841
+¿Planeas unirte al ejército después de graduarte, Alto?
+
+98
+00:09:23,025 --> 00:09:25,500
+¿Los pilotos pueden volar?
+
+99
+00:09:25,822 --> 00:09:27,615
+¿Acaso ya tengo marcado mi futuro?
+
+100
+00:09:27,630 --> 00:09:29,673
+Me dan escalofríos tan sólo de pensarlo.
+
+101
+00:09:32,198 --> 00:09:33,654
+Si, correcto.
+
+102
+00:09:33,761 --> 00:09:35,732
+Okey, ya me voy.
+
+103
+00:09:43,645 --> 00:09:46,364
+No quiero estar aquí.
+
+104
+00:09:47,200 --> 00:09:50,991
+La vida es tan aburrida en este lugar.
+
+105
+00:09:52,411 --> 00:09:54,800
+Nuevo Control Militar
+
+106
+00:09:57,100 --> 00:10:00,926
+Unidad, por favor responda. Unidad
+
+107
+00:10:01,790 --> 00:10:02,500
+¡Comandante!
+
+108
+00:10:12,320 --> 00:10:14,113
+¡Tengo prisa!, ¡tengo prisa!
+
+109
+00:10:25,141 --> 00:10:27,762
+¡Soy un lío!
+
+110
+00:10:34,000 --> 00:10:35,067
+¡Que hermoso!
+
+111
+00:10:35,100 --> 00:10:36,068
+¿Quien eres?
+
+112
+00:10:39,887 --> 00:10:44,455
+Gracias. Pensé que no podría ir al concierto.
+
+113
+00:10:45,555 --> 00:10:47,119
+Estaba sorprendida, creo.
+
+114
+00:10:47,679 --> 00:10:50,240
+De verás creí que eras una hermosa mujer cambiandose,  
+al principio...
+
+115
+00:10:50,260 --> 00:10:51,400
+¿Quién es una mujer?
+
+116
+00:10:54,750 --> 00:10:56,663
+No importa.
+
+117
+00:11:08,200 --> 00:11:12,276
+La flota está ingresando en un cinturón de asteroides.
+
+118
+00:11:17,200 --> 00:11:19,472
+20 segundos para contacto con el objetivo.
+
+119
+00:11:22,400 --> 00:11:23,506
+¿Jamming?
+
+120
+00:11:23,670 --> 00:11:25,360
+Estamos recogiendo cualquier tipo de perturbación.
+
+121
+00:11:37,869 --> 00:11:42,171
+Perdí mi camino. Me pregunté si podría llegar lo
+suficientemente arriba para ver la ciudad desde allí.
+
+122
+00:11:42,400 --> 00:11:46,136
+Cielos... ¿así que me arrastraste hacia lo alto 
+de la colina sin ningún objetivo?
+
+123
+00:11:47,038 --> 00:11:48,233
+¡Eres malo!
+
+124
+00:11:48,762 --> 00:11:50,200
+Quise decir...
+
+125
+00:11:58,855 --> 00:12:01,079
+Gracias por enseñarme el camino.
+
+126
+00:12:02,124 --> 00:12:04,140
+Así que sólo me seguirás hasta aquí.
+
+127
+00:12:04,470 --> 00:12:07,299
+Oh sip, y te devolveré el favor la próxima vez.
+
+128
+00:12:07,500 --> 00:12:10,393
+Trabajo en Nyan-Nyan, ¡siéntete libre de pasárte por allí!
+
+129
+00:12:11,743 --> 00:12:12,824
+¿Nyan-Nyan?
+
+130
+00:12:13,183 --> 00:12:14,675
+Nyan-Nyan, Nyan-Nyan...
+
+131
+00:12:14,720 --> 00:12:16,290
+¡Nihao-Nyan!
+
+132
+00:12:16,530 --> 00:12:20,129
+¡Rica y deliciosa comida!
+
+133
+00:12:20,615 --> 00:12:21,836
+¿No conoces el comercial?
+
+134
+00:12:26,388 --> 00:12:27,648
+¿No?
+
+135
+00:12:29,300 --> 00:12:31,795
+Pásate por allá, ¿okey?. ¡Te estaré esperando!
+
+136
+00:12:38,496 --> 00:12:40,151
+Que chica tan extraña...
+
+137
+00:12:43,675 --> 00:12:44,724
+Vamos a volar
+
+138
+00:12:48,090 --> 00:12:49,480
+Tenemos una comisión del comandante.
+
+139
+00:12:49,700 --> 00:12:53,181
+Hemos interceptado una capsula teledririgida no tripulada.
+
+140
+00:12:53,562 --> 00:12:55,147
+Desconocemos quién sea el enemigo.
+
+141
+00:12:55,800 --> 00:13:00,674
+Para mantener las defensas apropiadas,
+nos estamos elevando al nivel 7 de protección.
+
+142
+00:13:07,630 --> 00:13:09,100
+¡Escúchenme cantar!
+
+143
+00:13:12,000 --> 00:13:15,072
+¡Limpio para el despegue!
+
+144
+00:13:16,200 --> 00:13:18,890
+¡Preparándose para el lanzamiento!
+
+145
+00:13:24,119 --> 00:13:25,742
+¿Y ellos la llaman el Hada Galáctico?
+
+146
+00:14:47,784 --> 00:14:49,413
+¿Y ellos la llaman el Hada Galáctico?
+
+147
+00:14:53,881 --> 00:14:56,219
+¡Bravos 1 y 3 han sido derribados!
+
+148
+00:14:56,838 --> 00:14:59,404
+Llamen por refuerzos.
+
+149
+00:15:00,598 --> 00:15:02,192
+Realmente está ocurriendo, ¿eh?
+
+150
+00:15:02,412 --> 00:15:06,224
+¿De verás tienen misiles apuntando en nuestra dirección?
+
+151
+00:15:06,250 --> 00:15:11,463
+S-Sí señor, han sido detectados por nuestro radar.
+
+152
+00:15:12,009 --> 00:15:14,554
+Es mejor que los detengan.
+
+153
+00:15:15,009 --> 00:15:18,406
+¡Alerten a todas las unidades!
+
+154
+00:15:18,510 --> 00:15:19,407
+Entendido.
+
+155
+00:15:21,408 --> 00:15:23,999
+Oficina Presidencial del Frontier
+
+156
+00:15:24,736 --> 00:15:26,611
+¿El ejército no sigue nuestras órdenes?
+
+157
+00:15:28,028 --> 00:15:28,931
+Es posible.
+
+158
+00:15:35,943 --> 00:15:39,397
+Soy yo, Señor Habilura.
+
+159
+00:15:39,996 --> 00:15:42,117
+Ellos ya están aquí.
+
+160
+00:16:06,979 --> 00:16:08,241
+¡¿Ranka?!
+
+161
+00:16:11,241 --> 00:16:11,977
+¡Oh, esto!
+
+162
+00:16:12,100 --> 00:16:14,538
+¿El grupo de Mikhail esta volando cerca?.
+
+163
+00:16:15,587 --> 00:16:17,090
+Si.
+
+164
+00:16:26,713 --> 00:16:31,533
+Tenemos un mensaje urgente del Presidente para SMS
+
+165
+00:16:32,069 --> 00:16:33,906
+Código de Misión: Victor 3
+
+166
+00:16:33,970 --> 00:16:36,499
+Repito, esto ha sido anunciado como Victor 3.
+
+167
+00:16:36,869 --> 00:16:39,400
+¿Victor?, ¿En serio?
+
+168
+00:16:39,500 --> 00:16:44,872
+Chicos, odio tener que interrumpirlos pero esto no es un simulacro.
+
+169
+00:16:45,285 --> 00:16:48,598
+¡Todo el mundo prepárense, niveles de defensa al máximo!
+
+170
+00:16:49,128 --> 00:16:51,896
+¡William, llama al grupo de Mikhail!
+
+171
+00:16:52,334 --> 00:16:54,196
+¡Okey, allá vamos!
+
+172
+00:16:55,400 --> 00:16:57,907
+¡Ranka están finalmente aquí!
+
+173
+00:17:03,800 --> 00:17:04,653
+¡¿Qué...?!
+
+174
+00:17:09,592 --> 00:17:12,351
+Esta es una transmisión de emergencia 
+desde el Macross Frontier
+
+175
+00:17:13,090 --> 00:17:15,861
+Todas las unidades deben reportarse inmediatamente.
+
+176
+00:17:17,030 --> 00:17:20,744
+A todos los civiles se les ruega refugiarse adecuadamente.
+
+177
+00:17:20,800 --> 00:17:21,834
+¿Nos están llamando de nuevo?
+
+178
+00:17:24,094 --> 00:17:25,588
+¡Debes irte rápido!
+
+179
+00:17:25,802 --> 00:17:26,589
+¿Qué rayos dices?, yo debo...
+
+180
+00:17:26,700 --> 00:17:28,125
+¡Aprisa!
+
+181
+00:17:28,220 --> 00:17:29,126
+¡Espera!
+
+182
+00:17:31,540 --> 00:17:32,779
+¡No puede ser!
+
+183
+00:17:32,850 --> 00:17:34,675
+Entendido, vamos en camino.
+
+184
+00:17:35,264 --> 00:17:36,002
+Vamos, Luca.
+
+185
+00:17:36,100 --> 00:17:37,003
+¡Entendido!
+
+186
+00:17:37,702 --> 00:17:39,154
+¡Hey, Mikhail!
+
+187
+00:17:39,280 --> 00:17:40,116
+¡Luca!
+
+188
+00:17:42,980 --> 00:17:44,551
+¿Qué está pasando aquí?
+
+189
+00:17:57,700 --> 00:18:00,087
+Yo soy el líder del escuadrón militar.
+
+190
+00:18:00,100 --> 00:18:03,440
+Vamos a ejecutar un misión aquí.
+
+191
+00:18:03,500 --> 00:18:05,246
+¡E-entendido!
+
+192
+00:18:06,679 --> 00:18:09,300
+Este no es el momento para la gente sin agallas.
+
+193
+00:18:11,030 --> 00:18:13,615
+El capitán ha denominado esto como Código Victor, Leon.
+
+194
+00:18:13,650 --> 00:18:14,910
+¡Vamos!
+
+195
+00:18:46,420 --> 00:18:47,752
+¡Cuíden sus traseros!
+
+196
+00:18:56,680 --> 00:18:58,073
+¿Escapó?
+
+197
+00:19:13,853 --> 00:19:15,380
+¿Dónde está?
+
+198
+00:19:20,473 --> 00:19:21,809
+¿Dónde estás?
+
+199
+00:19:40,321 --> 00:19:42,419
+¡Tu no vas a derrotarme!
+
+200
+00:20:16,450 --> 00:20:17,400
+¿Qué rayos es todo esto?
+
+201
+00:20:17,775 --> 00:20:18,775
+¡Leon, retírate!
+
+202
+00:20:20,315 --> 00:20:21,864
+¡Eso jamás!
+
+203
+00:20:23,250 --> 00:20:25,120
+-¿Qué es eso?
+-Una batalla...
+
+204
+00:20:25,300 --> 00:20:27,244
+¡La unidad Vermillion ha sido derribada!
+
+205
+00:20:27,400 --> 00:20:29,172
+¡Nuestra primera línea de ataque ha sido derrotada!
+
+206
+00:20:32,311 --> 00:20:34,400
+¡Nos están rodeando!
+
+207
+00:20:35,478 --> 00:20:36,700
+¡Escudo de Protección al máximo!
+
+208
+00:20:37,280 --> 00:20:38,882
+¡Toma esto, bastardo!
+
+209
+00:21:10,100 --> 00:21:11,074
+¡Corran, ahora!
+
+210
+00:21:28,105 --> 00:21:28,821
+¡Hey!
+
+211
+00:21:29,668 --> 00:21:31,057
+¿Qué significa todo esto?
+
+212
+00:21:32,800 --> 00:21:33,816
+¡Espera!
+
+213
+00:21:35,094 --> 00:21:36,940
+¡Aquí todavía hay gente!
+
+214
+00:21:37,382 --> 00:21:39,386
+¿Acaso sólo podrán escapar ustedes?
+
+215
+00:21:39,970 --> 00:21:41,898
+Estamos dejandole el resto a los profesionales.
+
+216
+00:21:42,069 --> 00:21:43,600
+Aléjate de mi ahora.
+
+217
+00:21:43,980 --> 00:21:44,601
+¿Qué dijiste?
+
+218
+00:21:45,000 --> 00:21:47,180
+¡Todo el mundo vino a verte!
+
+219
+00:21:47,220 --> 00:21:48,947
+¿Acaso pretendes escapar?
+
+220
+00:21:50,688 --> 00:21:53,290
+No importa.
+
+221
+00:21:53,700 --> 00:21:54,961
+¡Espera!
+
+222
+00:21:56,264 --> 00:21:57,456
+Que idiota.
+
+223
+00:22:55,261 --> 00:22:59,353
+¿VF-25?, jamás pensé que vería una...
+
+224
+00:23:00,000 --> 00:23:00,354
+¡Por todos los cielos, aléjate de aquí, chico!
+
+225
+00:23:01,408 --> 00:23:03,564
+¡Este es mi trabajo ahora!
+
+226
+00:23:21,533 --> 00:23:23,733
+¿Piensas que puedes detenerme tan fácilmente?
+
+227
+00:23:26,500 --> 00:23:28,760
+¡Muére monstruo!
+
+228
+00:23:40,778 --> 00:23:43,133
+¡Deténteeeeee!
+
+229
+00:24:30,688 --> 00:24:32,001
+Ella escapará.
+
+230
+00:24:48,062 --> 00:24:51,251
+Continuará...
+
+231
+00:24:52,062 --> 00:24:54,251
+http://macrosshare.blogspot.com
+

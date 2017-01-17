@@ -1,0 +1,41 @@
+﻿23/06/2016
+===================
+Corrección de los cargos militares
+
+28/05/2016
+===================
+Unificación el termino del "Nuevo Gobierno Unificado"
+
+17/05/2016
+===================
+Cambio del opening
+
+14/05/2016
+===================
+Revisión de los rangos Militares
+Unificamos el nombre de los militares Windermere
+
+05/05/2016
+===================
+Modificaciones en el ending
+
+01/05/2016
+===================
+Unificamos el termino "Unidad Táctica de Sonido"
+Unificamos la raza con el nombre "Windermere"
+Se reparó "Caballeros del Viento" con mayúsculas
+Arreglo de doble espacios "  " en algunas lineas
+Unificamos la frase: "Si me monto en el viento, volaré"
+Arreglo de la expresion de Freyja ¡Hoina! que será traducido siempre como "¡Claro!"
+Se deja la expresión "Gori Gori" que dice Freyja, es una palabra inventada por ella
+Agregado cartel de "Playa Ranka"
+Arreglo de la frase "Encantada de conomerlos" que Freyja comete  por los nervios ese error
+arreglo de algunas frases para dar mejor sentido.
+
+29/04/2016
+===================
+Arreglos de gramática y ortografía.
+
+28/04/2016
+===================
+Publicación.
