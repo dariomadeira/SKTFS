@@ -44,7 +44,7 @@ Dialogue: 0,0:00:31.88,0:00:35.08,Default,,0,0,0,,La probabilidad de que el sist
 Dialogue: 0,0:00:35.10,0:00:38.58,Default,,0,0,0,,...nos detecten hasta que entremos en la atmósfera: 58%.
 Dialogue: 0,0:00:39.72,0:00:41.38,Default,,0,0,0,,Te estoy esperando Ghost.
 Dialogue: 0,0:00:41.53,0:00:43.48,Default,,0,0,0,,Cuando nos encontremos te convertiré en chatarra.
-Dialogue: 0,0:00:57.12,0:00:59.58,Pensamiento,,0,0,0,,Es hora de terminar esto, Isamu.
+Dialogue: 0,0:00:57.12,0:00:59.58,Pensamiento,,0,0,0,,Es hora de terminar con esto, Isamu.
 Comment: 0,0:00:00.00,0:00:00.08,Aclara,,0,0,0,,(Inicio Logo)
 Dialogue: 0,0:01:04.29,0:01:09.96,Logo_rojo,,0,0,0,,{\fad(300,300)\pos(1996,548)}{\p1}m -169 -19 l 58 -19 l 64 -26 l 41 -74 l -155 -74 l -175 -26 l -169 -19 {\p0}
 Dialogue: 0,0:01:04.29,0:01:09.96,Logo_azul,,0,0,0,,{\fad(300,300)\pos(1792,617)}{\p1}m -156 -8 l -117 -8 l -110 -14 l -108 -32 l -129 -64 l -129 -66 l -104 -66 l -82 -87 l -123 -87 l -144 -65 l -144 -52 l -132 -30 l -158 -15 l -156 -8 {\p0}
