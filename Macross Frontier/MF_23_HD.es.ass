@@ -93,7 +93,7 @@ Dialogue: 0,0:02:22.59,0:02:26.60,Tema_Sheryl,,0,0,0,,Hasta que demuestre\Nmi ve
 Dialogue: 0,0:02:26.60,0:02:32.35,Tema_Ranka,,0,0,0,,No voy a descansar
 Dialogue: 0,0:02:26.60,0:02:32.35,Tema_Sheryl,,0,0,0,,No voy a descansar
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Opening)
-Dialogue: 0,0:02:37.76,0:02:42.22,Cap,,0,0,0,,{\fad(500,500)}Capítulo 23\NTrue Begin
+Dialogue: 0,0:02:37.76,0:02:42.22,Cap,,0,0,0,,{\fad(500,500)}Capítulo 23\NComienzo verdadero
 Dialogue: 0,0:02:37.68,0:02:41.54,Voz_Superior,,0,0,0,,Tuvimos que desechar 2 islas más.
 Dialogue: 0,0:02:41.54,0:02:47.20,Voz_Superior,,0,0,0,,Debido a esto, no podemos recuperar la curva de auto recuperación ambiental del Frontier.
 Dialogue: 0,0:02:47.29,0:02:49.02,Voz_Superior,,0,0,0,,Esta medida solo nos da un corto plazo.
