@@ -13,17 +13,6 @@ Video Zoom: 6
 Video Aspect Ratio: 0
 YCbCr Matrix: TV.601
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: Music_Clip.mp4
-Video File: Music_Clip.mp4
-Video AR Mode: 4
-Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 54
-Active Line: 64
-Video Position: 13099
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Tema,Arial,48,&H009AFBF7,&H009AFBF7,&H00004B52,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,50,50,40,0
@@ -40,16 +29,16 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.56,Suena_tema,,0,0,0,,{\fad(500,500)\pos(479,435)}MACROSS
 Dialogue: 0,0:00:17.89,0:00:22.65,Tema,,0,0,0,,Perforando el poderoso cielo
 Dialogue: 0,0:00:23.55,0:00:28.35,Tema,,0,0,0,,Un rayo golpea la Tierra
-Dialogue: 0,0:00:29.19,0:00:34.07,Tema,,0,0,0,,Para despertar a la joven humanidad
-Dialogue: 0,0:00:34.84,0:00:40.64,Tema,,0,0,0,,Como una luz en la oscuridad
+Dialogue: 0,0:00:29.19,0:00:34.07,Tema,,0,0,0,,Que a nuestra joven humanidad
+Dialogue: 0,0:00:34.84,0:00:40.64,Tema,,0,0,0,,La despertará y nos hará libres
 Dialogue: 0,0:00:41.18,0:00:45.66,Tema,,0,0,0,,¡Macross!, ¡Macross!
-Dialogue: 0,0:00:47.29,0:00:52.29,Tema,,0,0,0,,Los valientes jóvenes se preparan
-Dialogue: 0,0:00:52.97,0:00:56.75,Tema,,0,0,0,,Pelearán para proteger a sus seres queridos
-Dialogue: 0,0:00:57.16,0:00:59.41,Tema,,0,0,0,,Hasta el final de su viaje
+Dialogue: 0,0:00:47.29,0:00:52.29,Tema,,0,0,0,,Los jóvenes valientes se levantarán
+Dialogue: 0,0:00:52.97,0:00:56.75,Tema,,0,0,0,,Para proteger a sus seres queridos
+Dialogue: 0,0:00:57.16,0:00:59.41,Tema,,0,0,0,,Saldrán todos los días a pelear,
 Dialogue: 0,0:00:59.44,0:01:02.09,Tema,,0,0,0,,¡Con rabia de esta guerra!
-Dialogue: 0,0:01:02.29,0:01:05.24,Tema,,0,0,0,,¿Aún me amarás mañana?
-Dialogue: 0,0:01:05.50,0:01:10.73,Tema,,0,0,0,,Reluciendo a través de la oscuridad su destino es...
-Dialogue: 0,0:01:10.86,0:01:16.87,Tema,,0,0,0,,¡Ese planeta azul que brilla en la distancia!
+Dialogue: 0,0:01:02.29,0:01:05.24,Tema,,0,0,0,,¿Me amarás mañana?
+Dialogue: 0,0:01:05.50,0:01:10.73,Tema,,0,0,0,,Desgarrando la oscuridad,\Nvolaremos hacia...
+Dialogue: 0,0:01:10.86,0:01:16.87,Tema,,0,0,0,,¡Ese planeta azul que brilla\Nen la distancia!
 Dialogue: 0,0:01:16.91,0:01:21.22,Tema,,0,0,0,,¡Macross!, ¡Macross!
 Dialogue: 0,0:01:24.03,0:01:28.23,Tema,,0,0,0,,Macross...
 Dialogue: 0,0:01:37.15,0:01:40.66,Suena_tema,,0,0,0,,{\fad(500,500)\pos(472,435)}Mi novio es un piloto
