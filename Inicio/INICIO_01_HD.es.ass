@@ -15,10 +15,13 @@ Video Zoom: 6
 Original Script: 
 YCbCr Matrix: TV.601
 
+[Aegisub Project Garbage]
+Last Style Storage: Default
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Tema_Basara,Arial,20,&H0054AAE0,&H0054AAE0,&H0004355C,&H00000000,-1,0,0,0,100,100,0,0,1,1.51111,0.503704,2,30,30,10,0
-Style: Suena_tema,Tahoma,22,&H00FFFFFF,&H00FFFFFF,&H00353538,&H0047474B,0,0,0,0,100,100,0,0,1,1.00741,0,1,30,30,20,0
+Style: Tema_Basara,Tahoma,22,&H0054AAE0,&H0054AAE0,&H0004355C,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,30,30,10,0
+Style: Suena_tema,Tahoma,22,&H00FFFFFF,&H00FFFFFF,&H00353538,&H0047474B,0,0,0,0,100,100,0,0,1,1,0,1,30,30,20,0
 Style: Titulos_y_Carteles,Tahoma,28,&H00FFFFFF,&H00FFFFFF,&H00353538,&H0047474B,-1,0,0,0,100,100,0,0,1,1.5,1,2,50,50,20,0
 Style: Logo_rojo,Arial,11,&H000C07E4,&H000C07E4,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0.566667,1.13333,2,64,64,6,0
 Style: Logo_azul,Arial,11,&H00A4573A,&H00A4573A,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0.566667,1.13333,2,64,64,6,0
