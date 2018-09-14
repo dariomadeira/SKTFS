@@ -13,6 +13,10 @@ Original Script: Skull Team Fansub
 Original Translation: Skull Team Fansub, Apogeo, Pablo_Admin, Dieragon, Ikaruss, ENDURO, Shougo Amakusa, hostiaurelio, Tencodri, Marquitech, Apoll
 Original Editing: Skull Team Fansub
 
+[Aegisub Project Garbage]
+Scroll Position: 225
+Active Line: 244
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00303033,-1,0,0,0,100,100,0,0,1,1,0.75,2,100,100,40,0
@@ -315,7 +319,7 @@ Dialogue: 0,0:13:07.01,0:13:08.18,Default,,0,0,0,,Y conmigo...
 Dialogue: 0,0:13:08.18,0:13:13.10,Default,,0,0,0,,...Ernest Johnson, Comandante del\NMacross Elysion.
 Dialogue: 0,0:13:14.82,0:13:17.73,Default,,0,0,0,,Ahora, comenzaremos las audiciones.
 Dialogue: 0,0:13:18.78,0:13:20.59,Default,,0,0,0,,Sin embargo, antes de empezar...
-Dialogue: 0,0:13:21.67,0:13:25.06,Default,,0,0,0,,...recuerden que nosotros, las Walküre, arriesgamos nuestras vidas durante cada presentación.
+Dialogue: 0,0:13:21.67,0:13:25.06,Default,,0,0,0,,...recuerden que nosotras, las Walküre, arriesgamos nuestras vidas durante cada presentación.
 Dialogue: 0,0:13:25.57,0:13:28.46,Default,,0,0,0,,¡Si no desean correr ese riesgo\Npueden retirarse ahora!
 Dialogue: 0,0:13:28.46,0:13:29.28,Default,,0,0,0,,Eso es todo.
 Dialogue: 0,0:13:31.94,0:13:33.41,Voz_publico,,0,0,0,,¡Estoy muy nerviosa!
