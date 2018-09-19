@@ -21,7 +21,7 @@ Video Position: 3477
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Tema_Ranka,Calibri,30,&H0065EA5F,&H0065EA5F,&H00035D01,&H00003000,-1,-1,0,0,100,100,0,0,1,1,0.5,2,30,30,20,0
-Style: Tema_Minmay,Calibri,30,&H00CACFFF,&H00CACFFF,&H00665FAA,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0.5,2,30,30,20,0
+Style: Tema_Minmay,Calibri,30,&H00D7AC86,&H00D7AC86,&H004D3530,&H00331A04,-1,-1,0,0,100,100,0,0,1,1,0.5,2,30,30,20,0
 Style: Tema_Sheryl,Calibri,30,&H00D9BBFF,&H00D9BBFF,&H00532F84,&H00271349,-1,-1,0,0,100,100,0,0,1,1,0.5,2,30,30,20,0
 Style: Tema_Basara,Calibri,30,&H0054AAE0,&H0054AAE0,&H0004355C,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0.5,2,30,30,20,0
 Style: Tema_Mylene,Calibri,30,&H008EC467,&H008EC467,&H002E571F,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0.5,2,30,30,20,0
