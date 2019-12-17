@@ -1,0 +1,256 @@
+﻿1
+00:00:08,430 --> 00:00:10,430
+Reporte de Global - Julio de 1999.
+
+2
+00:00:10,439 --> 00:00:24,100
+Año 1999: Un enorme objeto vino del espacio. Era una enorme fortaleza espacial de mas de 1200 metros de largo.
+
+3
+00:00:25,000 --> 00:00:35,000
+Aunque no había signos de alienígenas a bordo, la existencia de vida inteligente extraterrestre y el conflicto en el espacio exterior,
+
+4
+00:00:35,000 --> 00:00:44,000
+se hicieron evidentes en la nave, cuya tecnología superó en gran medida la tecnología humana.
+
+5
+00:00:44,000 --> 00:00:55,920
+Por lo tanto, se estableció el Gobierno Unificado de la Tierra, que velaría más allá de los intereses entre las naciones, y comenzó la restauración de la enorme  nave de guerra estrellada.
+
+6
+00:00:55,920 --> 00:01:02,000
+Sin embargo, el camino para establecer dicho Gobierno Unificado no fue facil.
+
+7
+00:01:02,000 --> 00:01:08,000
+Violentas guerras a pequeña escala se desarrollaron en varias partes del mundo.
+
+8
+00:01:08,000 --> 00:01:16,000
+Eventualmente, la larga y dificultosa Guerra de Unificación termino, restableciendose la paz.
+
+9
+00:01:16,000 --> 00:01:28,000
+Y finalmente, la fortaleza alienigena estrellada, renacio como una nave para la humanidad, la fortaleza espacial Macross.
+
+10
+00:01:28,000 --> 00:01:34,500
+10 años han pasado desde que que se estrello.
+
+11
+00:01:37,000 --> 00:01:47,000
+Bienvenido a la milicia del Gobierno Unificado. Soy la Primer Teniente Emma Granger, responsable del control de los escuadrones Valkyrie.  Seré tu navegante.
+
+12
+00:01:47,000 --> 00:01:51,900
+Aunque es algo repentino, decidiremos su próxima asignación.
+
+13
+00:01:52,180 --> 00:01:56,700
+El Mayor Roy Focker, se encargara de ti.
+
+14
+00:01:56,700 --> 00:02:04,000
+Muy bien pimpollo. Serás asignado a un escuadrón de combate.
+
+15
+00:02:04,000 --> 00:02:10,500
+No puedo garantizar que lo logres en tu primera eleccion, pero te escucharé por si acaso.
+
+16
+00:02:10,500 --> 00:02:16,500
+Tu opciones de asignacion, son el Prometheus, y el ARMD 01.
+
+17
+00:02:16,580 --> 00:02:20,000
+¿Cual prefieres?
+
+18
+00:02:23,000 --> 00:02:24,500
+¿Eliges el Prometheus?
+
+19
+00:02:26,300 --> 00:02:35,800
+Muy bien. A partir de hoy, seras asignado a uno de los escuadrones Valkyrie pertenecientes al CVS-101 Prometheus. ¡Buena suerte!
+
+20
+00:02:37,000 --> 00:02:39,039
+“Trampa para bobos”
+
+21
+00:02:42,500 --> 00:02:55,599
+7 de Febrero de 2009 DC: El SDF-1 Macross, perteneciente a la UN Spacy, estaba esperando su ceremonia de lanzamiento espacial.
+
+22
+00:02:55,800 --> 00:03:03,000
+Y en medio de eso, yo, su capitán, recibí información.
+
+23
+00:03:03,000 --> 00:03:12,599
+El portaviones espacial ARMD-01, detectó anomalías gravitacionales y radioactivas más allá de la órbita Lunar.
+
+24
+00:03:12,819 --> 00:03:20,180
+Lo que vi, luego de correr hacia el puente de mando del Macross, fue increible de ver...
+
+25
+00:03:22,479 --> 00:03:24,599
+Comencemos con las instrucciones.
+
+26
+00:03:32,639 --> 00:03:41,059
+Soy el coronel Maistroff, un adjunto. Como el Mayor Focker se encuentra en la ceremonia, sere yo quien haga el informe.
+
+27
+00:03:41,060 --> 00:03:46,439
+Sé que estamos en medio de la ceremonia, pero esta es una situacion que no podemos ignorar.
+
+28
+00:03:46,659 --> 00:03:53,979
+Justo ahora, el portaviones espacial, ARMD-01 ha detectado anomalias gravitaciones y radioactivas mas alla de la orbita de la Luna.
+
+29
+00:03:53,979 --> 00:04:02,739
+Este es el mismo fenomeno que ocurrio cuando el SDF-01 Macross aparecio tras un Space Fold, un pliegue espacial, hace 10 años.
+
+30
+00:04:02,939 --> 00:04:08,240
+Hay grandes posibilidades de que algun objeto haya hecho De-Fold tambien en esta ocasion.
+
+31
+00:04:08,439 --> 00:04:16,459
+Además, han habido informes de que la respuesta de De-Fold es tan grande que la vez anterior, palidece en comparación.
+
+32
+00:04:16,660 --> 00:04:23,820
+El Captain Global tambien ha abandonado la ceremonia y se dirige al puente de mando de la Macross, para ponerse al dia con la situacion.
+
+33
+00:04:29,339 --> 00:04:32,119
+¡¿Que ha sido eso?!
+
+34
+00:04:32,319 --> 00:04:38,899
+¡TRenemos una emergencia! ¡El sistema principal de Macross se ha salido de control! ¡Se ha disparado el cañon principal!
+
+35
+00:04:39,279 --> 00:04:41,979
+¡¿Q-que!?
+
+36
+00:04:42,139 --> 00:04:51,620
+Además, la ráfaga principal del cañón golpeó un objeto que se cree que es una nave espacial a una altitud de 280,000 kilómetros en la órbita de la Luna,destruyendolo.
+
+37
+00:04:51,740 --> 00:04:57,100
+Actualmente, varias naves espaciales se están acercan rápidamente.
+
+38
+00:04:57,240 --> 00:05:02,620
+Podemos esperar un asalto de represalia en respuesta a nuestro ataque.
+
+39
+00:05:02,800 --> 00:05:06,960
+¡Todas las naves, tomen posiciones de combate numero 1!
+
+40
+00:05:07,079 --> 00:05:09,759
+¿Como ha podido pasar esto?
+
+41
+00:05:10,040 --> 00:05:14,819
+Ya escucharon la Teniente. ¡Preparen todas las naves para un despegue inmediato!
+
+42
+00:05:14,939 --> 00:05:20,839
+Los cambios en la situación y las actualizaciones de misión serán comunicados por los operadores del puente, junto con las ordenes.
+
+43
+00:05:20,939 --> 00:05:23,959
+¡Por favor, protejan la Macross!
+
+44
+00:05:55,360 --> 00:05:56,920
+Todas las unidades ¡despeguen!
+
+45
+00:05:58,220 --> 00:06:01,840
+Esta nave está actualmente bajo ataque alienígena.
+
+46
+00:06:02,040 --> 00:06:06,860
+Esto no es un simulacro. Repito. Esto no es un simulacro.
+
+47
+00:06:07,259 --> 00:06:10,560
+Destruyan la naves enemigas.
+
+48
+00:06:11,120 --> 00:06:14,259
+Lider de Skull a Skull 7.
+
+49
+00:06:15,360 --> 00:06:17,379
+Veo que conseguiste despegar, pimpollo.
+
+50
+00:06:18,699 --> 00:06:22,360
+Es una situacion de combate inesperado, pero manten la calma.
+
+51
+00:06:23,699 --> 00:06:29,139
+El objetivo es destruir las unidades aereas enemigas. No pierdas el enfoque.
+
+52
+00:06:29,360 --> 00:06:32,699
+Estas haciendolo bien, numero 7. ¡Continua asi!
+
+53
+00:06:38,779 --> 00:06:42,039
+Gunsight One a todas las unidades Valkyrie.
+
+54
+00:06:43,100 --> 00:06:49,580
+Multiples naves enemigas se acercan por tiuerra. Cambien a modo Battroid y derribenlas.
+
+55
+00:07:06,680 --> 00:07:09,980
+Destruyan la naves enemigas.
+
+56
+00:07:43,019 --> 00:07:47,259
+Este es Gunsight One, la fortaleza comenzara a elevarse.
+
+57
+00:07:51,939 --> 00:07:55,180
+¡Aqui Macross, tenemos un problema! ¡Realizando aterrizaje de emergencia!
+
+58
+00:08:53,000 --> 00:08:54,539
+¡Nave dañada!
+
+59
+00:09:08,179 --> 00:09:09,399
+¡Te han golpeado!
+
+60
+00:09:17,220 --> 00:09:19,860
+¡Confirmada la destruccion de la unidades enemigas terretres!
+
+61
+00:09:24,059 --> 00:09:29,619
+Aqui Gunsight One, la fortaleza se elevara usando los motores terrestres.
+
+62
+00:09:30,899 --> 00:09:32,840
+Macross... ¡despegue!
+
+63
+00:09:40,720 --> 00:09:48,060
+Aqui Gunsight One, nuestra nave continuara elevandose hasta alcanzar la orbita satelital. Todas las unidades Valkyrie, alcancen altitud para reunirse con nuestra nave.
+
+64
+00:09:48,179 --> 00:09:49,139
+¡Entendido!
+
