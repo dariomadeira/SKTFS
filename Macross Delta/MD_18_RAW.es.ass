@@ -13,6 +13,10 @@ Original Script: Skull Team Fansub
 Original Translation: Skull Team Fansub, Apogeo, Pablo_Admin, Dieragon, ENDURO, Shougo Amakusa, hostiaurelio, Tencodri, Marquitech, Apoll, Altair
 Original Editing: Skull Team Fansub
 
+[Aegisub Project Garbage]
+Scroll Position: 389
+Active Line: 408
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00303033,-1,0,0,0,100,100,0,0,1,1,0.75,2,100,100,40,0
@@ -458,16 +462,16 @@ Dialogue: 0,0:21:24.86,0:21:26.22,Default,,0,0,0,,¿Qué es este viento?
 Dialogue: 0,0:22:06.80,0:22:10.25,Titulos_y_Carteles,,0,0,0,,{\fad(0,700)}Misión 18: Emergencia sensible
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,INICIO LOVE! THUNDER GROW
 Dialogue: 0,0:22:17.54,0:22:19.17,Tema_Mikumo,,0,0,0,,¡Debemos hacerlo!
-Dialogue: 0,0:22:22.54,0:22:29.61,Tema_Mikumo,,0,0,0,,¡Amor!, aumentaré los\Ntruenos por ti.
-Dialogue: 0,0:22:30.34,0:22:34.83,Tema_Mikumo,,0,0,0,,Como el viento helado\Ndel norte.
-Dialogue: 0,0:22:37.80,0:22:45.92,Tema_Mikumo,,0,0,0,,Dibujando un espiral,\Nmi deseo se estremece.
-Dialogue: 0,0:22:46.84,0:22:57.08,Tema_Mikumo,,0,0,0,,Si mi mundo fuera un espejo\Nsería tonta o inteligente.
-Dialogue: 0,0:22:57.08,0:23:07.52,Tema_Mikumo,,0,0,0,,Tengo miedo de romperme\Npor las chispas.
-Dialogue: 0,0:23:07.52,0:23:15.87,Tema_Mikumo,,0,0,0,,Por eso me escondí con un fusil.
-Dialogue: 0,0:23:15.87,0:23:19.64,Tema_Mikumo,,0,0,0,,Temblaré hasta el último minuto\Ncomo agua agitada.
-Dialogue: 0,0:23:19.64,0:23:25.57,Tema_Mikumo,,0,0,0,,Busco el gatillo para dejarlo salir.
-Dialogue: 0,0:23:25.57,0:23:30.42,Tema_Mikumo,,0,0,0,,Transmito una señal de emergencia.
-Dialogue: 0,0:23:30.42,0:23:36.72,Tema_Mikumo,,0,0,0,,Pues me voy a convertir\Nen un ángel caído.
+Dialogue: 0,0:22:22.54,0:22:29.61,Tema_Mikumo,,0,0,0,,¡Mi amor!, aumentaré\Nos truenos por tí
+Dialogue: 0,0:22:30.34,0:22:34.83,Tema_Mikumo,,0,0,0,,Como el viento azul\Ndel norte
+Dialogue: 0,0:22:37.80,0:22:45.92,Tema_Mikumo,,0,0,0,,Dibujando una espiral\Nse estremece, mi deseo
+Dialogue: 0,0:22:46.84,0:22:57.08,Tema_Mikumo,,0,0,0,,Sería ridículo si este fuera\Nun mundo dentro de un espejo
+Dialogue: 0,0:22:57.08,0:23:07.52,Tema_Mikumo,,0,0,0,,Me escapé de las chispas y llamas\Npara no quebrarme y morir
+Dialogue: 0,0:23:07.52,0:23:15.87,Tema_Mikumo,,0,0,0,,Por eso, mantuve mi gatillo\N¡Escondido de todos!
+Dialogue: 0,0:23:15.87,0:23:19.64,Tema_Mikumo,,0,0,0,,La superficie del agua está\Ntemblando bruscamente
+Dialogue: 0,0:23:19.64,0:23:25.57,Tema_Mikumo,,0,0,0,,Y busco el gatillo para hacer\Nque los sueños se desborden
+Dialogue: 0,0:23:25.57,0:23:30.42,Tema_Mikumo,,0,0,0,,Transmito una señal\Nde emergencia S.O.S.
+Dialogue: 0,0:23:30.42,0:23:36.72,Tema_Mikumo,,0,0,0,,Pues no quiero convertirme\Nen un ángel caído
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Inicio Logo)
 Dialogue: 0,0:23:32.89,0:23:36.72,Logo_rojo,,0,0,0,,{\fad(100,0)\pos(494.444,355.111)}{\p1}m -169 -19 l 58 -19 l 64 -26 l 41 -74 l -155 -74 l -175 -26 l -169 -19 {\p0}
 Dialogue: 0,0:23:32.89,0:23:36.72,Logo_azul,,0,0,0,,{\fad(100,0)\pos(363.778,394.778)}{\p1}m -156 -8 l -117 -8 l -110 -14 l -108 -32 l -129 -64 l -129 -66 l -104 -66 l -82 -87 l -123 -87 l -144 -65 l -144 -52 l -132 -30 l -158 -15 l -156 -8 {\p0}
