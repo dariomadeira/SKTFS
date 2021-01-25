@@ -5,9 +5,17 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
+Audio File: SDF MACROSS 31 Satan's Doll (BD 1920x1080 x264 AAC).mp4
+Video File: SDF MACROSS 31 Satan's Doll (BD 1920x1080 x264 AAC).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Video Position: 2414
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -19,6 +27,10 @@ Style: OP Romaji,Forgotten Futurist Rg,54,&H00FFFFFF,&H14B5B2B0,&H00000000,&H788
 Style: OP Español,Forgotten Futurist Rg,51,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,146.667,100,0,0,1,2.1,1.5,2,20,20,23,0
 Style: ED Romaji,Revue BT,42,&H00BBF1FF,&H0064777F,&H00000000,&H64000000,0,0,0,0,146.667,100,0,0,1,0,3,9,20,20,15,1
 Style: ED Español,Express,48,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,0,0,0,0,146.667,100,0,0,1,0,2.25,1,20,20,15,1
+Style: Kara cafe,Forte,60,&H00C5F6F3,&H553B352E,&H372B3B75,&H00000000,-1,0,0,0,66.6667,80,0,0,1,3,0,7,42,40,30,1
+Style: Kara Sunset,Brook 23,39,&H00AACBF8,&H9B4B86C2,&H330925F3,&H00000000,0,0,0,0,106.667,100,0,0,1,4.5,0,7,40,38,30,1
+Style: Kara sayonara,Sadness,30,&H00DEE3D7,&H004F2010,&H41C97B1A,&H00000000,0,0,0,0,133.333,100,0,0,1,4.2,0,7,30,20,15,1
+Style: Kr-G-LOVE,CallimarkerExtended,30,&H00F1D8F4,&H690B0A0A,&H41FB5CF6,&H00000000,-1,0,0,0,117.333,100,0,0,1,3,0,7,40,40,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
