@@ -630,7 +630,7 @@ Dialogue: 0,0:28:34.02,0:28:40.49,Logo_azul,,0000,0000,0000,,{\pos(267,458)\fad(
 Dialogue: 0,0:28:34.02,0:28:40.49,Logo_azul,,0000,0000,0000,,{\pos(279,489)\fad(1355,1355)}{\p1}m -5 -8 l -22 -25 l -29 -81 l -27 -86 l -14 -69 l -6 -34 l 27 -12 l 26 -8 l -5 -8 {\p0}
 Dialogue: 0,0:28:34.02,0:28:40.49,Logo_azul,,0000,0000,0000,,{\pos(280,454)\fad(1355,1355)}{\p1}m 12 -25 l -3 -35 l -12 -69 l 0 -69 l 11 -39 l 38 -39 l 31 -25 l 11 -25 {\p0}
 Dialogue: 0,0:28:34.02,0:28:40.49,Logo_blanco,,0000,0000,0000,,{\pos(186,411)\fad(1355,1355)}TEAM FANSUB
-Dialogue: 0,0:28:34.02,0:28:40.49,Logo_blanco,,0000,0000,0000,,{\fad(1355,1355)\pos(186,428)}http://macrossrobotech.com/
+Dialogue: 0,0:28:34.02,0:28:40.49,Logo_blanco,,0000,0000,0000,,{\fad(1355,1355)\pos(186,428)}http://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0000,0000,0000,,(Fin Logo)
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0000,0000,0000,,(Fin Ending)
 Dialogue: 0,0:28:49.15,0:28:54.05,Voz_off,,0000,0000,0000,,Diablos... Basara ignora nuestra preocupación, ¿Dónde estará ahora?

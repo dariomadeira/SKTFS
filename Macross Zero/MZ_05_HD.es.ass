@@ -398,7 +398,7 @@ Dialogue: 0,0:31:44.56,0:31:45.06,Default,,0000,0000,0000,,Mao.
 Dialogue: 0,0:32:07.92,0:32:09.19,Default,,0000,0000,0000,,¡Tobiuvo!
 Dialogue: 0,0:32:27.33,0:32:29.83,Default,,0000,0000,0000,,Después de todo Shin era un Hombre Pájaro...
 Dialogue: 0,0:32:57.38,0:33:05.00,Titulos_y_Carteles,,0000,0000,0000,,OVA 5 - El Hombre Pájaro
-Dialogue: 0,0:32:57.38,0:33:05.00,Aclara_sup,,0000,0000,0000,,http://macrossrobotech.com/
+Dialogue: 0,0:32:57.38,0:33:05.00,Aclara_sup,,0000,0000,0000,,http://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0000,0000,0000,,(Inicio Logo)
 Comment: 0,0:32:57.38,0:33:05.00,Logo_fondo,,0000,0000,0000,,{\pos(674,335)\fad(200,0)}{\p1}m -169 37 l 58 37 l 76 -23 l 61 -49 l -172 -49 l -186 -23 l -169 37 {\p0}
 Dialogue: 0,0:32:57.38,0:33:05.00,Logo_rojo,,0000,0000,0000,,{\pos(665,307)\fad(200,0)}{\p1}m -169 -19 l 58 -19 l 64 -26 l 41 -74 l -155 -74 l -175 -26 l -169 -19 {\p0}

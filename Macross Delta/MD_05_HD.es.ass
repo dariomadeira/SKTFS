@@ -92,7 +92,7 @@ Dialogue: 0,0:01:41.45,0:01:45.16,Logo_azul,,0,0,0,,{\fad(2500,0)\pos(351.555,23
 Dialogue: 0,0:01:41.45,0:01:45.16,Logo_azul,,0,0,0,,{\fad(2500,0)\pos(368.222,290.444)}{\p1}m -5 -8 l -22 -25 l -29 -81 l -27 -86 l -14 -69 l -6 -34 l 27 -12 l 26 -8 l -5 -8 {\p0}
 Dialogue: 0,0:01:41.45,0:01:45.16,Logo_azul,,0,0,0,,{\fad(2500,0)\pos(367.333,236.556)}{\p1}m 12 -25 l -3 -35 l -12 -69 l 0 -69 l 11 -39 l 38 -39 l 31 -25 l 11 -25 {\p0}
 Dialogue: 0,0:01:41.45,0:01:45.16,Logo_blanco,,0,0,0,,{\fad(2500,0)\pos(226.857,172.714)}TEAM FANSUB
-Dialogue: 0,0:01:41.45,0:01:45.16,Aclara,,0,0,0,,{\fad(2500,0)\fs20\pos(829.667,681.667)}www.macrossrobotech.com
+Dialogue: 0,0:01:41.45,0:01:45.16,Aclara,,0,0,0,,{\fad(2500,0)\fs20\pos(829.667,681.667)}http://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo)
 Dialogue: 0,0:01:45.16,0:01:50.58,Tema_Freyja,,0,0,0,,Los pétalos que caen de\Nesa flor que gira
 Dialogue: 0,0:01:50.58,0:01:56.05,Tema_Freyja,,0,0,0,,Los cielos estrellados que aún\Nme faltan contar
@@ -477,7 +477,7 @@ Dialogue: 0,0:23:40.03,0:23:41.95,Logo_azul,,0,0,0,,{\fad(100,0)\pos(351.555,239
 Dialogue: 0,0:23:40.03,0:23:41.95,Logo_azul,,0,0,0,,{\fad(100,0)\pos(368.222,290.444)}{\p1}m -5 -8 l -22 -25 l -29 -81 l -27 -86 l -14 -69 l -6 -34 l 27 -12 l 26 -8 l -5 -8 {\p0}
 Dialogue: 0,0:23:40.03,0:23:41.95,Logo_azul,,0,0,0,,{\fad(100,0)\pos(367.333,236.556)}{\p1}m 12 -25 l -3 -35 l -12 -69 l 0 -69 l 11 -39 l 38 -39 l 31 -25 l 11 -25 {\p0}
 Dialogue: 0,0:23:40.03,0:23:41.95,Logo_blanco,,0,0,0,,{\fad(100,0)\pos(226.857,172.714)}TEAM FANSUB
-Dialogue: 0,0:23:40.03,0:23:41.95,Aclara,,0,0,0,,{\fad(100,0)\fs20\pos(829.667,681.667)}www.macrossrobotech.com
+Dialogue: 0,0:23:40.03,0:23:41.95,Aclara,,0,0,0,,{\fad(100,0)\fs20\pos(829.667,681.667)}http://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo)
 Dialogue: 0,0:23:40.03,0:23:41.95,Traductores,,0,0,0,,{\pos(250,690)}Traductores: \NDieragon, Ikaruss, ENDURO,\NShougo Amakusa, Hostiaurelio,\NTencodri, Marquitech, Apoll, Apogeo\NAltair y Pablo_Admin
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,FIN Endding

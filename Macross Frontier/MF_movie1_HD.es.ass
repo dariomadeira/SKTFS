@@ -68,7 +68,7 @@ Dialogue: 0,0:01:22.29,0:01:25.87,Logo_azul,,0,0,0,,{\pos(543.662,1077.75)\fad(1
 Dialogue: 0,0:01:22.29,0:01:25.87,Logo_azul,,0,0,0,,{\pos(545.915,999)\fad(1200,1200)}{\p1}m 27 -56.25 l -6.75 -78.75 l -27 -155.25 l 0 -155.25 l 24.75 -87.75 l 85.625 -87.75 l 69.875 -56.25 l 24.75 -56.25{\p0}
 Dialogue: 0,0:01:22.29,0:01:25.87,Logo_blanco,,0,0,0,,{\pos(334.085,902.25)\fad(1200,1200)}TEAM FANSUB
 Dialogue: 0,0:01:22.29,0:01:25.87,Titulos_y_Carteles,,0,0,0,,{\fad(1200,1200)\pos(1213,784)}Macross Frontier Movie - La Falsa Diva
-Dialogue: 0,0:01:22.29,0:01:25.87,Skull_tit,,0,0,0,,{\fad(1200,1200)\pos(949,1050)}Comunidad Macross - Robotech\Nhttp://macrossrobotech.com/
+Dialogue: 0,0:01:22.29,0:01:25.87,Skull_tit,,0,0,0,,{\fad(1200,1200)\pos(949,1050)}Comunidad Macross - Robotech\Nhttp://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo)
 Dialogue: 0,0:01:37.04,0:01:42.40,Voz_off,,0,0,0,,En el pasado, hubo una guerra con una raza de gigantes llamados los Zentradi.
 Dialogue: 0,0:01:44.00,0:01:46.79,Voz_off,,0,0,0,,Habiendo sido casi extinguidos por su primer encuentro con vida extraterrestre,
@@ -1648,7 +1648,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo)
 Dialogue: 0,1:56:50.88,1:57:00.00,Skull_tit,,0,0,0,,{\pos(278,247)}{\fad(1200,1200)}SKULL TEAM FANSUB
 Dialogue: 0,1:56:50.88,1:57:00.00,Skull_int,,0,0,0,,{\pos(274,822)}{\fad(1200,1200)}Apogeo\NVTK\NDarkLyon87\NIkaruss\NPablo_Adm\NDjBarBol\NKjo79\NAgarrarce\NKrokians\NGowares01\NShibaJenius\NHikaruGO \NKouryuu\NVatanen405\NShekenffs\NDieragon
 Dialogue: 0,1:57:39.36,1:58:00.00,Skull_int,,0,0,0,,{\pos(284,1012)}{\fad(1200,1200)}Un especial agradecimento a\NEl Xeneixe, a Gonza,\Ny a todos los que colaboraron\Nen este proyecto.
-Dialogue: 0,1:58:04.40,1:58:32.00,Skull_tit,,0,0,0,,{\pos(1597,1060)}{\fad(1200,1200)}Comunidad Macross - Robotech\Nhttp://macrossrobotech.com/
+Dialogue: 0,1:58:04.40,1:58:32.00,Skull_tit,,0,0,0,,{\pos(1597,1060)}{\fad(1200,1200)}Comunidad Macross - Robotech\Nhttp://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,Inicio avance
 Dialogue: 0,1:58:54.69,1:58:59.50,Tema_Ambas,,0,0,0,,¿A quién será a la que besarás?
 Dialogue: 0,1:59:00.12,1:59:03.47,Tema_Ranka,,0,0,0,,¿A mi, o a aquella...

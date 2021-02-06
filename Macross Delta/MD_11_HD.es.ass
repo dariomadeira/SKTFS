@@ -81,7 +81,7 @@ Dialogue: 0,0:01:01.41,0:01:05.12,Logo_azul,,0,0,0,,{\fad(2500,0)\pos(527.332,35
 Dialogue: 0,0:01:01.41,0:01:05.12,Logo_azul,,0,0,0,,{\fad(2500,0)\pos(552.333,435.666)}{\p1}m -7.5 -12 l -33 -37.5 l -43.5 -121.5 l -40.5 -129 l -21 -103.5 l -9 -51 l 40.5 -18 l 39 -12 l -7.5 -12{\p0}
 Dialogue: 0,0:01:01.41,0:01:05.12,Logo_azul,,0,0,0,,{\fad(2500,0)\pos(551,354.834)}{\p1}m 18 -37.5 l -4.5 -52.5 l -18 -103.5 l 0 -103.5 l 16.5 -58.5 l 57 -58.5 l 46.5 -37.5 l 16.5 -37.5{\p0}
 Dialogue: 0,0:01:01.41,0:01:05.12,Logo_blanco,,0,0,0,,{\fad(2500,0)\pos(340.286,259.071)}TEAM FANSUB
-Dialogue: 0,0:01:01.41,0:01:05.12,Aclara,,0,0,0,,{\fad(2500,0)\fs30\pos(1244.501,1022.501)}www.macrossrobotech.com
+Dialogue: 0,0:01:01.41,0:01:05.12,Aclara,,0,0,0,,{\fad(2500,0)\fs30\pos(1244.501,1022.501)}http://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo)
 Dialogue: 0,0:01:05.12,0:01:10.54,Tema_Freyja,,0,0,0,,Los pétalos que caen de\Nesa flor que gira
 Dialogue: 0,0:01:10.54,0:01:16.01,Tema_Freyja,,0,0,0,,Los cielos estrellados que aún\Nme faltan contar
@@ -448,7 +448,7 @@ Dialogue: 0,0:22:44.17,0:22:56.89,Logo_azul,,0,0,0,,{\fad(100,5000)\pos(527.332,
 Dialogue: 0,0:22:44.17,0:22:56.89,Logo_azul,,0,0,0,,{\fad(100,5000)\pos(552.333,435.666)}{\p1}m -7.5 -12 l -33 -37.5 l -43.5 -121.5 l -40.5 -129 l -21 -103.5 l -9 -51 l 40.5 -18 l 39 -12 l -7.5 -12{\p0}
 Dialogue: 0,0:22:44.17,0:22:56.89,Logo_azul,,0,0,0,,{\fad(100,5000)\pos(551,354.834)}{\p1}m 18 -37.5 l -4.5 -52.5 l -18 -103.5 l 0 -103.5 l 16.5 -58.5 l 57 -58.5 l 46.5 -37.5 l 16.5 -37.5{\p0}
 Dialogue: 0,0:22:44.17,0:22:56.89,Logo_blanco,,0,0,0,,{\fad(100,5000)\pos(340.286,259.071)}TEAM FANSUB
-Dialogue: 0,0:22:44.17,0:22:56.89,Aclara,,0,0,0,,{\fad(100,5000)\fs30\pos(1244.501,1022.501)}www.macrossrobotech.com
+Dialogue: 0,0:22:44.17,0:22:56.89,Aclara,,0,0,0,,{\fad(100,5000)\fs30\pos(1244.501,1022.501)}http://macross-robotech.com/
 Comment: 0,0:00:05.00,0:00:05.00,Aclara,,0,0,0,,(Fin Logo)
 Dialogue: 0,0:22:44.17,0:22:56.89,Traductores,,0,0,0,,{\fad(100,5000)\pos(1575,330)}Traductores: \NDieragon, ENDURO,\NShougo Amakusa, Hostiaurelio,\NTencodri, Marquitech, Apoll, Apogeo\NAltair y Pablo_Admin
 Comment: 0,0:00:05.00,0:00:05.00,Aclara,,0,0,0,,FIN TEMA GIRARE BLUES

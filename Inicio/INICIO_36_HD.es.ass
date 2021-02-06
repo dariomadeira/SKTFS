@@ -17,8 +17,8 @@ Video File: Welcome_1.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 37
-Active Line: 48
+Scroll Position: 9
+Active Line: 38
 Video Position: 9601
 
 [V4+ Styles]
@@ -76,7 +76,7 @@ Dialogue: 0,0:03:17.80,0:03:20.51,Tema_Sheryl,,0,0,0,,¡Juntos mantengamos el ri
 Dialogue: 0,0:03:20.51,0:03:24.11,Tema_Sheryl,,0,0,0,,¡Paso!, ¡Mantengan el paso!, oh siii
 Dialogue: 0,0:03:24.11,0:03:29.91,Tema_Sheryl,,0,0,0,,¡Vengan!, llénese directamente aquí,\N¡No llegues tarde!
 Dialogue: 0,0:03:29.91,0:03:36.22,Tema_Sheryl,,0,0,0,,¡Bienvenidos a mí club de fans esta noche!, ¡S.O.S.!
-Dialogue: 0,0:03:33.65,0:03:36.22,Tema_Sheryl,,0,0,0,,S.O.S.
+Dialogue: 0,0:03:33.65,0:03:36.22,Tema,,0,0,0,,S.O.S.
 Dialogue: 0,0:03:36.22,0:03:42.39,Tema_Sheryl,,0,0,0,,La multitud está a punto de explotar,\Nya están en trance
 Dialogue: 0,0:03:42.39,0:03:48.50,Tema_Sheryl,,0,0,0,,¡Bienvenidos a mí club de fans esta noche!, ¡S.O.S.!
 Dialogue: 0,0:03:45.90,0:03:48.50,Tema,,0,0,0,,S.O.S.

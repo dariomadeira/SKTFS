@@ -88,7 +88,7 @@ Dialogue: 0,0:01:47.02,0:01:52.68,Logo_azul,,0,0,0,,{\pos(368,260)\fad(0,500)}{\
 Dialogue: 0,0:01:47.02,0:01:52.68,Logo_azul,,0,0,0,,{\pos(388,321)\fad(0,500)}{\p1}m -5 -8 l -22 -25 l -29 -81 l -27 -86 l -14 -69 l -6 -34 l 27 -12 l 26 -8 l -5 -8 {\p0}
 Dialogue: 0,0:01:47.02,0:01:52.68,Logo_azul,,0,0,0,,{\pos(386,259)\fad(0,500)}{\p1}m 12 -25 l -3 -35 l -12 -69 l 0 -69 l 11 -39 l 38 -39 l 31 -25 l 11 -25 {\p0}
 Dialogue: 0,0:01:47.02,0:01:52.68,Logo_blanco,,0,0,0,,{\pos(223,181)\fad(0,500)}TEAM FANSUB
-Dialogue: 0,0:01:47.02,0:01:52.68,Site,,0,0,0,,{\fad(0,500)}www.macrossrobotech.com
+Dialogue: 0,0:01:47.02,0:01:52.68,Site,,0,0,0,,{\fad(0,500)}http://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.02,Aclara,,0,0,0,,(Fin Logo)
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Presentación de la película)
 Dialogue: 0,0:02:07.56,0:02:08.70,Default,,0,0,0,,Correcto, señor.
@@ -1382,5 +1382,5 @@ Dialogue: 0,1:54:01.15,1:54:31.35,Logo_azul,,0,0,0,,{\pos(408,1041)\fad(500,500)
 Dialogue: 0,1:54:01.15,1:54:31.35,Logo_azul,,0,0,0,,{\pos(406,979)\fad(500,500)}{\p1}m 12 -25 l -3 -35 l -12 -69 l 0 -69 l 11 -39 l 38 -39 l 31 -25 l 11 -25 {\p0}
 Dialogue: 0,1:54:01.15,1:54:31.35,Logo_blanco,,0,0,0,,{\pos(243,901)\fad(500,500)}TEAM FANSUB
 Dialogue: 0,1:54:01.15,1:54:31.35,Logo_blanco_30,,0,0,0,,{\pos(243,1021)\fad(500,500)}Feliz 30 Aniversario\NMacross
-Dialogue: 0,1:54:36.81,1:54:44.47,Aclara,,0,0,0,,{\fad(500,500)}www.macrossrobotech.com
+Dialogue: 0,1:54:36.81,1:54:44.47,Aclara,,0,0,0,,{\fad(500,500)}http://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo final)

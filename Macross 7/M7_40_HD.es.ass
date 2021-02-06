@@ -630,7 +630,7 @@ Dialogue: 0,0:24:09.13,0:24:11.47,Logo_azul,,0,0,0,,{\pos(417,438)\fad(170,0)}{\
 Dialogue: 0,0:24:09.13,0:24:11.47,Logo_azul,,0,0,0,,{\pos(429,469)\fad(170,0)}{\p1}m -5 -8 l -22 -25 l -29 -81 l -27 -86 l -14 -69 l -6 -34 l 27 -12 l 26 -8 l -5 -8 {\p0}
 Dialogue: 0,0:24:09.13,0:24:11.47,Logo_azul,,0,0,0,,{\pos(430,434)\fad(170,0)}{\p1}m 12 -25 l -3 -35 l -12 -69 l 0 -69 l 11 -39 l 38 -39 l 31 -25 l 11 -25 {\p0}
 Dialogue: 0,0:24:09.13,0:24:11.47,Logo_blanco,,0,0,0,,{\pos(336,394)\fad(170,0)}TEAM FANSUB
-Dialogue: 0,0:24:09.13,0:24:11.47,Logo_blanco,,0,0,0,,{\pos(342,411)\fad(170,0)}http://macrossrobotech.com/
+Dialogue: 0,0:24:09.13,0:24:11.47,Logo_blanco,,0,0,0,,{\pos(342,411)\fad(170,0)}http://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo)
 Comment: 0,0:22:54.22,0:22:59.90,Tema_Mylene_Romaji,,0,0,0,karaoke,{\k22}Da{\k24}ke{\k22}do {\k111}Baby! {\k25}ma{\k25}da {\k42}mo{\k29}no{\k26}ta{\k22}ri{\k40}na{\k40}i {\k47}no {\k93}yo!
 Comment: 0,0:23:01.39,0:23:07.20,Tema_Mylene_Romaji,,0,0,0,karaoke,{\k29}ka{\k29}ra{\k22}da-{\k43}juu {\k66}ni {\k46}kan{\k32}ji{\k32}na{\k28}i {\k29}ko{\k28}i {\k60}ja... {\k44}Bye {\k93}Bye!

@@ -93,7 +93,7 @@ Dialogue: 0,0:01:27.79,0:01:30.25,Tema_Makina_S,,0,0,0,,{\move(600,35,620,95)}{\
 Dialogue: 0,0:01:27.79,0:01:30.25,Tema_Reina_S,,0,0,0,,{\move(600,35,630,125)}{\fad(0,100)}¡Ah!
 Dialogue: 0,0:01:27.79,0:01:30.25,Tema_todas,,0,0,0,,{\pos(600,35)}¡Ah!
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Inicio Logo)
-Dialogue: 0,0:01:36.90,0:01:41.11,Aclara,,0,0,0,,{\fad(100,0)\fs20\pos(829.667,681.667)}www.macrossrobotech.com
+Dialogue: 0,0:01:36.90,0:01:41.11,Aclara,,0,0,0,,{\fad(100,0)\fs20\pos(829.667,681.667)}http://macross-robotech.com/
 Dialogue: 0,0:01:37.44,0:01:41.11,Logo_rojo,,0,0,0,,{\fad(100,0)\pos(494.444,255.111)}{\p1}m -169 -19 l 58 -19 l 64 -26 l 41 -74 l -155 -74 l -175 -26 l -169 -19 {\p0}
 Dialogue: 0,0:01:37.44,0:01:41.11,Logo_azul,,0,0,0,,{\fad(100,0)\pos(363.778,294.778)}{\p1}m -156 -8 l -117 -8 l -110 -14 l -108 -32 l -129 -64 l -129 -66 l -104 -66 l -82 -87 l -123 -87 l -144 -65 l -144 -52 l -132 -30 l -158 -15 l -156 -8 {\p0}
 Dialogue: 0,0:01:37.44,0:01:41.11,Logo_azul,,0,0,0,,{\fad(100,0)\pos(350.778,253)}{\p1}m -106 -25 l -103 -62 l -84 -80 l -87 -55 l -66 -71 l -66 -53 l -80 -43 l -66 -43 l -61 -25 l -79 -25 l -85 -40 l -89 -37 l -90 -25 l -106 -25 {\p0}
@@ -506,7 +506,7 @@ Dialogue: 0,0:23:23.96,0:23:33.93,Logo_azul,,0,0,0,,{\fad(100,0)\pos(351.555,339
 Dialogue: 0,0:23:23.96,0:23:33.93,Logo_azul,,0,0,0,,{\fad(100,0)\pos(368.222,390.444)}{\p1}m -5 -8 l -22 -25 l -29 -81 l -27 -86 l -14 -69 l -6 -34 l 27 -12 l 26 -8 l -5 -8 {\p0}
 Dialogue: 0,0:23:23.96,0:23:33.93,Logo_azul,,0,0,0,,{\fad(100,0)\pos(367.333,336.556)}{\p1}m 12 -25 l -3 -35 l -12 -69 l 0 -69 l 11 -39 l 38 -39 l 31 -25 l 11 -25 {\p0}
 Dialogue: 0,0:23:23.96,0:23:33.93,Logo_blanco,,0,0,0,,{\fad(100,0)\pos(226.857,272.714)}TEAM FANSUB
-Dialogue: 0,0:23:23.96,0:23:33.93,Aclara,,0,0,0,,{\fad(100,0)\fs20\pos(829.667,681.667)}www.macrossrobotech.com
+Dialogue: 0,0:23:23.96,0:23:33.93,Aclara,,0,0,0,,{\fad(100,0)\fs20\pos(829.667,681.667)}http://macross-robotech.com/
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo)
 Dialogue: 0,0:23:23.96,0:23:33.93,Traductores,,0,0,0,,{\pos(250,690)}Traductores: \NDieragon, ENDURO,\NShougo Amakusa, Hostiaurelio,\NTencodri, Marquitech, Apoll, Apogeo\N Altair y Pablo_Admin
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,FIN TEMA El viento sopla sin aviso
