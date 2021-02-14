@@ -4,8 +4,8 @@
 Title: Macross VF-X 2 - Opening
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 1280
-PlayResY: 720
+PlayResX: 1920
+PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Zoom: 2
 Original Script: Comunidad Macross Robotech con Skull Team Fansub
@@ -15,80 +15,97 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Get Free - Macross VFX.mp4
-Video File: Get Free - Macross VFX.mp4
+Audio File: Macross VF-X 2 Opening.mp4
+Video File: Macross VF-X 2 Opening.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 6
-Video Position: 5712
+Video Zoom Percent: 0.500000
+Scroll Position: 48
+Active Line: 61
+Video Position: 8424
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Tema_Yoshiki,Calibri,47,&H0054AAE0,&H0054AAE0,&H0004355C,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0.333333,2,28,28,20,0
-Style: Tema_Coro,Calibri,47,&H005455E0,&H0054AAE0,&H0004355C,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0.333333,8,28,28,20,0
-Style: Default,Arial,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00303033,-1,0,0,0,100,100,0,0,1,2,1.5,2,330,330,40,0
-Style: Logo_rojo,Arial,14,&H000C07E4,&H000C07E4,&H00FFFFFF,&H00000000,0,0,0,0,250,250,0,0,1,1.33333,1.33333,2,8,8,8,0
-Style: Logo_azul,Arial,14,&H00A4573A,&H00A4573A,&H00FFFFFF,&H00000000,0,0,0,0,250,250,0,0,1,1.33333,1.33333,2,8,8,8,0
-Style: Logo_blanco,Arial,11,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,250,250,0,0,1,0.666667,0,2,8,8,8,0
-Style: Skull_tit,Trebuchet MS,27,&H00FFFFFF,&H00FFFFFF,&H00616164,&H00000000,0,0,0,0,100,100,0,0,1,0.666667,0.666667,8,8,8,147,1
-Style: Skull_tit2,Trebuchet MS,29,&H00A0F1F9,&H00A0F1F9,&H00005C52,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,0.666667,8,8,8,53,1
-Style: Rojo,Arial,14,&H000000FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,600,600,0,0,1,1.99999,0,2,8,8,8,1
-Style: Blanco,Arial,5,&H00FFFFFF,&H000000FF,&H00000000,&H003A3738,0,0,0,0,600,600,0,0,1,1.99999,0,2,8,8,8,1
-Style: Texto,Arial,11,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,300,300,0,0,1,1,0,2,8,8,8,1
+Style: Tema_Yoshiki,Calibri,71,&H0054AAE0,&H0054AAE0,&H0004355C,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0.499999,2,42,42,30,0
+Style: Default,Arial,53,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00303033,-1,0,0,0,100,100,0,0,1,3,2.25,2,495,495,60,0
+Style: Logo_rojo,Arial,45,&H000C07E4,&H000C07E4,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,0
+Style: Logo_azul,Arial,45,&H00A4573A,&H00A4573A,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,0
+Style: Logo_blanco,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,0
+Style: Logo_fondo,Arial,45,&H00444444,&H00444444,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,0
+Style: Suena_tema,Tahoma,59,&H00FFFFFF,&H00FFFFFF,&H00353538,&H0047474B,0,0,0,0,100,100,0,0,1,2.25,0,1,113,113,45,0
+Style: Skull_tit,Trebuchet MS,41,&H00FFFFFF,&H00FFFFFF,&H00616164,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,12,12,221,1
+Style: Skull_tit2,Trebuchet MS,44,&H00A0F1F9,&H00A0F1F9,&H00005C52,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,1,8,12,12,80,1
+Style: Rojo,Arial,21,&H000000FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,600,600,0,0,1,2.99998,0,2,12,12,12,1
+Style: Blanco,Arial,8,&H00FFFFFF,&H000000FF,&H00000000,&H003A3738,0,0,0,0,600,600,0,0,1,2.99998,0,2,12,12,12,1
+Style: Texto,Arial,17,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,300,300,0,0,1,1.5,0,2,12,12,12,1
+Style: Aclara_SKULL,Century Gothic,38,&H00FFFFFF,&H00FFFFFF,&H00444444,&H00000000,-1,0,0,0,100,100,0,0,1,3.375,2.25,1,113,113,34,0
+Style: Tema,Calibri,65,&H009AFBF7,&H009AFBF7,&H00004B52,&H00000000,-1,-1,0,0,100,100,0,0,1,2.25,1.125,8,68,68,45,0
+Style: Titulos_y_Carteles,Tahoma,56,&H00FFFFFF,&H00FFFFFF,&H00353538,&H0047474B,-1,0,0,0,100,100,0,0,1,2.25,0,2,113,113,45,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.53,0:00:04.25,Default,,0,0,0,,Año 2050 DC
-Dialogue: 0,0:00:05.08,0:00:08.72,Default,,0,0,0,,Mientras los terrestres continuan su migracion por la galaxia
-Dialogue: 0,0:00:08.84,0:00:11.28,Default,,0,0,0,,Tratan de llevar una existencia pacifica
-Dialogue: 0,0:00:12.44,0:00:15.42,Default,,0,0,0,,Pero aun asi, en esta era de paz y prosperidad
-Dialogue: 0,0:00:15.42,0:00:19.47,Default,,0,0,0,,Eventos inesperados siguen perturbando la paz.
-Dialogue: 0,0:00:20.64,0:00:23.80,Default,,0,0,0,,Para paliar esta situacion, el gobierno de Macross City
-Dialogue: 0,0:00:23.80,0:00:27.61,Default,,0,0,0,,Establece un escuadron con pilotos de elite \Npara operaciones especiales.
-Dialogue: 0,0:00:28.41,0:00:33.00,Default,,0,0,0,,Se los bautizo como: VF-X RAVENS
-Dialogue: 0,0:00:33.20,0:00:34.19,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:00:34.24,0:00:35.22,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:00:35.22,0:00:40.39,Tema_Coro,,0,0,0,,¡Liberateeee...!
-Dialogue: 0,0:00:41.38,0:00:45.90,Tema_Yoshiki,,0,0,0,,Mira como todo lo que tenemos\N aqui esta cercado, en este mundo.
-Dialogue: 0,0:00:46.42,0:00:51.16,Tema_Yoshiki,,0,0,0,,Debes controlar tu locura en propia defensa, en tu vida.
-Dialogue: 0,0:00:51.86,0:00:54.43,Tema_Yoshiki,,0,0,0,,Si puedes gritar, si puedes encontrar
-Dialogue: 0,0:00:54.43,0:00:57.08,Tema_Yoshiki,,0,0,0,,Pero te repetire la misma frase.
-Dialogue: 0,0:00:57.10,0:00:59.74,Tema_Yoshiki,,0,0,0,,"Como es posible, que quieres decir?"
-Dialogue: 0,0:00:59.74,0:01:01.88,Tema_Yoshiki,,0,0,0,,Sabes, estas luchando en una guerra sin fin.
-Dialogue: 0,0:01:01.94,0:01:02.62,Tema_Yoshiki,,0,0,0,,¡Si!
-Dialogue: 0,0:01:02.31,0:01:03.87,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:03.46,0:01:05.07,Tema_Yoshiki,,0,0,0,,Enciende tu emocion
-Dialogue: 0,0:01:04.87,0:01:06.26,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:06.19,0:01:07.75,Tema_Yoshiki,,0,0,0,,Abre tus ojos
-Dialogue: 0,0:01:07.60,0:01:09.23,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:08.87,0:01:10.35,Tema_Yoshiki,,0,0,0,,Emocionate
-Dialogue: 0,0:01:10.18,0:01:11.72,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:11.46,0:01:13.10,Tema_Yoshiki,,0,0,0,,Ahora es el momento
-Dialogue: 0,0:01:13.18,0:01:15.88,Tema_Yoshiki,,0,0,0,,¿Quién es lo suficientemente ignorante...?
-Dialogue: 0,0:01:15.88,0:01:18.06,Tema_Yoshiki,,0,0,0,,¿Como para pretender desbordar el cielo?
-Dialogue: 0,0:01:18.10,0:01:20.28,Tema_Coro,,0,0,0,,Oooooh!
-Dialogue: 0,0:01:19.23,0:01:20.82,Tema_Yoshiki,,0,0,0,,Asi que...
-Dialogue: 0,0:01:22.92,0:01:24.31,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:24.30,0:01:25.88,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:25.88,0:01:29.26,Tema_Yoshiki,,0,0,0,,Quiero vivir en un planeta azul
-Dialogue: 0,0:01:31.12,0:01:34.84,Tema_Yoshiki,,0,0,0,,Quiero vivir en un cielo enorme
-Dialogue: 0,0:01:36.47,0:01:38.78,Tema_Yoshiki,,0,0,0,,Es lo que mas quiero
-Dialogue: 0,0:01:39.22,0:01:41.64,Tema_Yoshiki,,0,0,0,,¡Es lo que mas deseo!
-Dialogue: 0,0:01:41.38,0:01:42.66,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:42.66,0:01:43.64,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:43.67,0:01:46.56,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:48.79,0:01:50.27,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:49.88,0:01:51.43,Tema_Yoshiki,,0,0,0,,Enciende tu emocion
-Dialogue: 0,0:01:51.30,0:01:53.02,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:52.76,0:01:54.32,Tema_Yoshiki,,0,0,0,,Abre tus ojos
-Dialogue: 0,0:01:53.98,0:01:55.38,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:55.11,0:01:56.74,Tema_Yoshiki,,0,0,0,,Emocionate
-Dialogue: 0,0:01:56.67,0:01:58.22,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:01:57.99,0:01:59.54,Tema_Yoshiki,,0,0,0,,Ahora es el momento
-Dialogue: 0,0:01:59.55,0:02:01.86,Tema_Yoshiki,,0,0,0,,Toda la gente con luz interior
-Dialogue: 0,0:02:01.90,0:02:04.59,Tema_Yoshiki,,0,0,0,,Hagan brillar este mundo
-Dialogue: 0,0:02:06.08,0:02:09.24,Tema_Yoshiki,,0,0,0,,Como antes
-Dialogue: 0,0:02:09.95,0:02:10.95,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:02:10.95,0:02:11.92,Tema_Coro,,0,0,0,,¡Liberate!
-Dialogue: 0,0:02:11.92,0:02:15.94,Tema_Coro,,0,0,0,,¡Liberateeee...!
+Dialogue: 0,0:00:00.00,0:00:02.10,Logo_rojo,,0,0,0,,{\pos(724.528,1084.5)}{\p1}m -382.625 -42.75 l 131.375 -42.75 l 144.875 -58.5 l 92.875 -166.5 l -351 -166.5 l -396.25 -58.5 l -382.625 -42.75{\p0}
+Dialogue: 0,0:00:00.00,0:00:02.10,Logo_azul,,0,0,0,,{\pos(534.34,1145.25)}{\p1}m -353.25 -18 l -264.875 -18 l -249 -31.5 l -244.5 -72 l -292.125 -144 l -292.125 -148.5 l -235.5 -148.5 l -185.625 -195.75 l -278.5 -195.75 l -326 -146.25 l -326 -117 l -298.875 -67.5 l -357.75 -33.75 l -353.25 -18{\p0}
+Dialogue: 0,0:00:00.00,0:00:02.10,Logo_azul,,0,0,0,,{\pos(509.434,1086.75)}{\p1}m -240 -56.25 l -233.25 -139.5 l -190.25 -180 l -197 -123.75 l -149.375 -159.75 l -149.375 -119.25 l -181.125 -96.75 l -149.375 -96.75 l -138.125 -56.25 l -178.875 -56.25 l -192.5 -90 l -201.5 -83.25 l -203.75 -56.25 l -240 -56.25{\p0}
+Dialogue: 0,0:00:00.00,0:00:02.10,Logo_azul,,0,0,0,,{\pos(511.698,1066.5)}{\p1}m -131.375 -56.25 l -144.875 -96.75 l -144.875 -159.75 l -115.5 -130.5 l -115.5 -101.25 l -111 -87.75 l -86 -87.75 l -90.625 -130.5 l -65.625 -130.5 l -54.375 -56.25 l -131.375 -56.25{\p0}
+Dialogue: 0,0:00:00.00,0:00:02.10,Logo_azul,,0,0,0,,{\pos(541.132,1145.25)}{\p1}m -11.375 -18 l -49.75 -56.25 l -65.625 -182.25 l -61.125 -193.5 l -31.75 -155.25 l -13.625 -76.5 l 61.125 -27 l 58.875 -18 l -11.375 -18{\p0}
+Dialogue: 0,0:00:00.00,0:00:02.10,Logo_azul,,0,0,0,,{\pos(538.868,1064.25)}{\p1}m 27.125 -56.25 l -6.75 -78.75 l -27.125 -155.25 l 0 -155.25 l 24.875 -87.75 l 86 -87.75 l 70.25 -56.25 l 24.875 -56.25{\p0}
+Dialogue: 0,0:00:00.00,0:00:02.10,Aclara_SKULL,,0,0,0,,{\pos(221.887,963)}TEAM FANSUB
+Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo - Inicio cartel)
+Dialogue: 0,0:00:11.00,0:00:12.72,Default,,0,0,0,,Año 2050 DC.
+Dialogue: 0,0:00:13.55,0:00:17.19,Default,,0,0,0,,Mientras los terrestres continúan su migración por la Galaxia...
+Dialogue: 0,0:00:17.31,0:00:19.75,Default,,0,0,0,,...tratan de llevar una existencia pacifica.
+Dialogue: 0,0:00:20.91,0:00:23.89,Default,,0,0,0,,Pero aun así, en esta era de paz y prosperidad...
+Dialogue: 0,0:00:23.89,0:00:27.94,Default,,0,0,0,,...eventos inesperados siguen perturbando la paz.
+Dialogue: 0,0:00:29.66,0:00:32.27,Default,,0,0,0,,Para paliar esta situación, el Gobierno de Macross City...
+Dialogue: 0,0:00:32.27,0:00:36.08,Default,,0,0,0,,...establece un escuadrón con pilotos de elite para operaciones especiales.
+Dialogue: 0,0:00:36.89,0:00:38.48,Default,,0,0,0,,Se los bautizo como...
+Dialogue: 0,0:00:38.76,0:00:41.16,Default,,0,0,0,,VF-X RAVENS.
+Dialogue: 0,0:00:41.67,0:00:42.66,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:00:42.71,0:00:43.69,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:00:43.69,0:00:48.86,Tema,,0,0,0,,¡Liberateee...!
+Dialogue: 0,0:00:49.85,0:00:54.37,Tema_Yoshiki,,0,0,0,,Mira como todo lo que tenemos  esta aquí cercado,\Nen este mundo.
+Dialogue: 0,0:00:54.89,0:00:59.63,Tema_Yoshiki,,0,0,0,,Debes usar tu locura en propia defensa, en tu vida.
+Dialogue: 0,0:01:00.33,0:01:02.90,Tema_Yoshiki,,0,0,0,,Puedes gritar, puedes encontrar
+Dialogue: 0,0:01:02.90,0:01:05.55,Tema_Yoshiki,,0,0,0,,Pero te repites la misma frase
+Dialogue: 0,0:01:05.57,0:01:08.21,Tema_Yoshiki,,0,0,0,,"Como es posible, ¿Qué quieres decir?"
+Dialogue: 0,0:01:08.21,0:01:10.35,Tema_Yoshiki,,0,0,0,,Sabes que estas luchando en una guerra sin fin.
+Dialogue: 0,0:01:10.41,0:01:11.09,Tema_Yoshiki,,0,0,0,,¡Sí!
+Dialogue: 0,0:01:10.78,0:01:12.34,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:11.93,0:01:13.54,Tema_Yoshiki,,0,0,0,,¡Enciende tu emoción!
+Dialogue: 0,0:01:13.34,0:01:14.73,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:14.66,0:01:16.22,Tema_Yoshiki,,0,0,0,,¡Abre tus ojos!
+Dialogue: 0,0:01:16.07,0:01:17.70,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:17.34,0:01:18.82,Tema_Yoshiki,,0,0,0,,¡Emocionate!
+Dialogue: 0,0:01:18.65,0:01:20.19,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:19.93,0:01:21.57,Tema_Yoshiki,,0,0,0,,¡Ahora es el momento!
+Dialogue: 0,0:01:21.65,0:01:24.35,Tema_Yoshiki,,0,0,0,,¿Quién es lo suficientemente ignorante...
+Dialogue: 0,0:01:24.35,0:01:26.53,Tema_Yoshiki,,0,0,0,,...como para pretender desbordar el cielo?
+Dialogue: 0,0:01:26.57,0:01:28.75,Tema,,0,0,0,,¡Oooooh!
+Dialogue: 0,0:01:27.70,0:01:29.29,Tema_Yoshiki,,0,0,0,,Asi que...
+Dialogue: 0,0:01:31.39,0:01:32.78,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:32.77,0:01:34.35,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:34.35,0:01:38.00,Tema_Yoshiki,,0,0,0,,Quiero vivir en un planeta azul.
+Dialogue: 0,0:01:39.92,0:01:43.16,Tema_Yoshiki,,0,0,0,,Quiero vivir en un cielo enorme.
+Dialogue: 0,0:01:44.94,0:01:47.25,Tema_Yoshiki,,0,0,0,,Es lo que más quiero.
+Dialogue: 0,0:01:47.69,0:01:50.11,Tema_Yoshiki,,0,0,0,,¡Es lo que más deseo!
+Dialogue: 0,0:01:49.85,0:01:51.13,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:51.13,0:01:52.11,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:52.14,0:01:55.03,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:57.26,0:01:58.74,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:01:58.35,0:01:59.90,Tema_Yoshiki,,0,0,0,,¡Enciende tu emoción!
+Dialogue: 0,0:01:59.77,0:02:01.49,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:02:01.23,0:02:02.79,Tema_Yoshiki,,0,0,0,,¡Abre tus ojos!
+Dialogue: 0,0:02:02.45,0:02:03.85,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:02:03.58,0:02:05.21,Tema_Yoshiki,,0,0,0,,¡Emocionate!
+Dialogue: 0,0:02:05.14,0:02:06.69,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:02:06.46,0:02:08.01,Tema_Yoshiki,,0,0,0,,¡Ahora es el momento!
+Dialogue: 0,0:02:08.02,0:02:10.33,Tema_Yoshiki,,0,0,0,,Toda la gente con luz interior.
+Dialogue: 0,0:02:10.37,0:02:13.06,Tema_Yoshiki,,0,0,0,,Hagan brillar este mundo.
+Dialogue: 0,0:02:14.55,0:02:17.71,Tema_Yoshiki,,0,0,0,,Como antes...
+Dialogue: 0,0:02:18.42,0:02:19.42,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:02:19.42,0:02:20.39,Tema,,0,0,0,,¡Liberate!
+Dialogue: 0,0:02:20.39,0:02:24.41,Tema,,0,0,0,,¡Liberateee...!
+Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Inicio cartel)
+Dialogue: 0,0:02:23.22,0:02:30.49,Titulos_y_Carteles,,0,0,0,,http://macross-robotech.com/
+Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin cartel)
