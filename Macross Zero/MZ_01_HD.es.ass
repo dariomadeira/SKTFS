@@ -14,6 +14,10 @@ Original Translation: Todo el grupo de colaboradores de Macross VOXP
 Script Updated By: Darío Madeira - Apogeo
 YCbCr Matrix: TV.601
 
+[Aegisub Project Garbage]
+Scroll Position: 18
+Active Line: 42
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Voz,Arial,66,&H00E7BFE4,&H00E7BFE4,&H004D364A,&H0047474B,-1,-1,0,0,100,100,0,0,1,3,1.5,2,300,300,30,0
@@ -72,7 +76,7 @@ Dialogue: 0,0:02:57.50,0:02:58.56,Default,,0,0,0,,¡Qué tontos!
 Dialogue: 0,0:03:04.47,0:03:04.98,Default,,0,0,0,,¡Shin!
 Dialogue: 0,0:03:55.44,0:03:59.84,Voz,,0,0,0,,Purpura 1, gracias por salvarnos, pero al menos adviértenos antes de que dispares.
 Dialogue: 0,0:04:00.36,0:04:02.04,Default,,0,0,0,,Es su culpa que el enemigo se pusiera en su cola.
-Dialogue: 0,0:04:02.53,0:04:03.46,Voz,,0,0,0,,¿Qué has dices?
+Dialogue: 0,0:04:02.53,0:04:03.46,Voz,,0,0,0,,¿Qué dices?
 Dialogue: 0,0:04:04.04,0:04:06.10,Voz,,0,0,0,,¿Tanto deseas derribar más naves?
 Dialogue: 0,0:04:06.87,0:04:11.55,Default,,0,0,0,,Shin, eso no está bien, vamos a perder amigos que nos cubran.
 Dialogue: 0,0:04:12.54,0:04:15.43,Default,,0,0,0,,Nunca he confiado en nadie para que me cubra.

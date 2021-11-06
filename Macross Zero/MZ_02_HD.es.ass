@@ -14,6 +14,10 @@ Original Translation: Todo el grupo de colaboradores de Macross VOXP
 Script Updated By: Darío Madeira - Apogeo
 YCbCr Matrix: TV.601
 
+[Aegisub Project Garbage]
+Scroll Position: 18
+Active Line: 42
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Voz,Arial,66,&H00E7BFE4,&H00E7BFE4,&H004D364A,&H0047474B,-1,-1,0,0,100,100,0,0,1,3,1.5,2,300,300,30,0
@@ -72,7 +76,7 @@ Dialogue: 0,0:02:43.65,0:02:44.05,Default,,0,0,0,,¡Qué!
 Dialogue: 0,0:03:21.92,0:03:23.88,Default,,0,0,0,,Maldición, el combustible se ha acabado.
 Dialogue: 0,0:03:24.28,0:03:26.08,Default,,0,0,0,,No encontraremos de nuevo.
 Dialogue: 0,0:03:27.56,0:03:28.66,Default,,0,0,0,,¿Qué?
-Dialogue: 0,0:03:34.88,0:03:39.18,Default,,0,0,0,,Entonces, los Hombres Pájaros dejó caer una tortuga al mar.
+Dialogue: 0,0:03:34.88,0:03:39.18,Default,,0,0,0,,Entonces, el Hombre Pájaro dejó caer una tortuga al mar.
 Dialogue: 0,0:03:39.85,0:03:42.58,Default,,0,0,0,,La tortuga golpeó una roca y se rompió en varios trozos.
 Dialogue: 0,0:03:42.78,0:03:46.38,Default,,0,0,0,,Aquella cáscara formó la isla Mayan...
 Dialogue: 0,0:03:46.88,0:03:50.68,Default,,0,0,0,,..y los otros pedazos rotos formaron todas las otras islas alrededor.
