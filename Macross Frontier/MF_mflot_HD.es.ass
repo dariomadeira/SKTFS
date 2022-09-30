@@ -16,17 +16,6 @@ Original Timing: Skull Team Fansub
 Synch Point: Skull Team Fansub
 Update Details: Skull Team Fansub
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: Macross Frontier Labyrinth Of Time.mp4
-Video File: Macross Frontier Labyrinth Of Time.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 171
-Active Line: 186
-Video Position: 15532
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Voz,Arial,62,&H00F2DDF1,&H00F2DDF1,&H005B2258,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,1.5,2,300,300,55,0
@@ -53,10 +42,9 @@ Style: Aclara_Analizando,Century Gothic,36,&H002C11E6,&H002C11E6,&H00493435,&H00
 Style: Aclara_welcome,Century Gothic,36,&H0088AD90,&H0088AD90,&H003A4E37,&H00000000,-1,0,0,0,250,250,0,0,1,2,1.5,2,100,100,10,0
 Style: Aclara_end,Century Gothic,62,&H00FFFFFF,&H00FFFFFF,&H00444444,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,2,100,100,270,0
 Style: Voz_off,Arial,62,&H009AFBF7,&H009AFBF7,&H00004B52,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1.5,2,200,200,45,0
-Style: Logo_rojo,Arial,20,&H000C07E4,&H000C07E4,&H00FFFFFF,&H00000000,0,0,0,0,250,250,0,0,1,2,2,2,10,10,10,0
-Style: Logo_azul,Arial,20,&H00A4573A,&H00A4573A,&H00FFFFFF,&H00000000,0,0,0,0,250,250,0,0,1,2,2,2,10,10,10,0
-Style: Logo_blanco,Arial,15,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,250,250,0,0,1,1,0,2,10,10,10,0
-Style: Logo_fondo,Arial,20,&H00444444,&H00444444,&H00FFFFFF,&H00000000,0,0,0,0,250,250,0,0,1,2,2,2,10,10,10,1
+Style: Logo_rojo,Arial,45,&H000C07E4,&H000C07E4,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,4.5,2,261,261,23,0
+Style: Logo_azul,Arial,45,&H00A4573A,&H00A4573A,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,4.5,2,261,261,23,0
+Style: Logo_blanco,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,2,261,261,23,0
 Style: Skull_int,Trebuchet MS,35,&H00FFFFFF,&H000000FF,&H00444444,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
 Style: Skull_tit,Trebuchet MS,40,&H00A0F1F9,&H00A0F1F9,&H00005C52,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
 Style: Publi_1,Calibri,68,&H00C1FCF4,&H00C1FCF4,&H00004B52,&H00000000,-1,0,0,0,100,100,0,-34,1,1,1,8,100,100,35,0
@@ -66,13 +54,13 @@ Style: Voz_publico,Arial,62,&H00BFE7E6,&H00BFE7E6,&H00283B3A,&H0047474B,-1,-1,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Inicio Logo)
-Dialogue: 0,0:00:21.10,0:00:26.73,Logo_rojo,,0,0,0,,{\fad(1200,1200)\pos(936,1058)}{\p1}m -169 -19 l 58 -19 l 64 -26 l 41 -74 l -155 -74 l -175 -26 l -169 -19 {\p0}
-Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(742,1127)}{\p1}m -156 -8 l -117 -8 l -110 -14 l -108 -32 l -129 -64 l -129 -66 l -104 -66 l -82 -87 l -123 -87 l -144 -65 l -144 -52 l -132 -30 l -158 -15 l -156 -8 {\p0}
-Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(713,1063)}{\p1}m -106 -25 l -103 -62 l -84 -80 l -87 -55 l -66 -71 l -66 -53 l -80 -43 l -66 -43 l -61 -25 l -79 -25 l -85 -40 l -89 -37 l -90 -25 l -106 -25 {\p0}
-Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(713,1040)}{\p1}m -58 -25 l -64 -43 l -64 -71 l -51 -58 l -51 -45 l -49 -39 l -38 -39 l -40 -58 l -29 -58 l -24 -25 l -58 -25 {\p0}
-Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(740,1120)}{\p1}m -5 -8 l -22 -25 l -29 -81 l -27 -86 l -14 -69 l -6 -34 l 27 -12 l 26 -8 l -5 -8 {\p0}
-Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(734,1033)}{\p1}m 12 -25 l -3 -35 l -12 -69 l 0 -69 l 11 -39 l 38 -39 l 31 -25 l 11 -25 {\p0}
-Dialogue: 0,0:00:21.10,0:00:26.73,Logo_blanco,,0,0,0,,{\fad(1200,1200)\pos(503,921)}TEAM FANSUB
+Dialogue: 0,0:00:21.10,0:00:26.73,Logo_rojo,,0,0,0,,{\fad(1200,1200)\pos(732.958,1000.25)}{\p1}m -380.875 -42.75 l 130.75 -42.75 l 144.25 -58.5 l 92.375 -166.5 l -349.25 -166.5 l -394.375 -58.5 l -380.875 -42.75{\p0}
+Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(545.915,1052)}{\p1}m -351.5 -18 l -263.625 -18 l -247.875 -31.5 l -243.375 -72 l -290.75 -144 l -290.75 -148.5 l -234.375 -148.5 l -184.75 -195.75 l -277.125 -195.75 l -324.5 -146.25 l -324.5 -117 l -297.5 -67.5 l -356 -33.75 l -351.5 -18{\p0}
+Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(516.62,1000.25)}{\p1}m -238.875 -56.25 l -232.125 -139.5 l -189.25 -180 l -196 -123.75 l -148.75 -159.75 l -148.75 -119.25 l -180.25 -96.75 l -148.75 -96.75 l -137.5 -56.25 l -178 -56.25 l -191.5 -90 l -200.625 -83.25 l -202.875 -56.25 l -238.875 -56.25{\p0}
+Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(516.62,980)}{\p1}m -130.75 -56.25 l -144.25 -96.75 l -144.25 -159.75 l -114.875 -130.5 l -114.875 -101.25 l -110.375 -87.75 l -85.625 -87.75 l -90.125 -130.5 l -65.375 -130.5 l -54.125 -56.25 l -130.75 -56.25{\p0}
+Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(543.662,1049.75)}{\p1}m -11.25 -18 l -49.625 -56.25 l -65.375 -182.25 l -60.875 -193.5 l -31.5 -155.25 l -13.5 -76.5 l 60.875 -27 l 58.625 -18 l -11.25 -18{\p0}
+Dialogue: 0,0:00:21.10,0:00:26.73,Logo_azul,,0,0,0,,{\fad(1200,1200)\pos(545.915,971)}{\p1}m 27 -56.25 l -6.75 -78.75 l -27 -155.25 l 0 -155.25 l 24.75 -87.75 l 85.625 -87.75 l 69.875 -56.25 l 24.75 -56.25{\p0}
+Dialogue: 0,0:00:21.10,0:00:26.73,Logo_blanco,,0,0,0,,{\fad(1200,1200)\pos(334.085,874.25)}TEAM FANSUB
 Comment: 0,0:00:00.00,0:00:00.00,Aclara,,0,0,0,,(Fin Logo)
 Dialogue: 0,0:00:21.10,0:00:26.73,Default,,0,0,0,,{\fad(1200,1200)}Macross Frontier: El laberinto del tiempo
 Dialogue: 0,0:00:38.07,0:00:41.10,Default,,0,0,0,,Ha pasado más de medio siglo desde que la humanidad comenzó su viaje...
